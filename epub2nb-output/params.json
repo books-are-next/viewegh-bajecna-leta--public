@@ -1,0 +1,528 @@
+{
+  "params": {
+    "metadata": {
+      "title": "Báječná léta pod psa",
+      "identifier": "urn:uuid:1cfcd01e-1805-4b28-9320-aefe540844ad",
+      "author": "Michal Viewegh",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2019-04-04T00:00:00.000Z"
+    },
+    "elements": {
+      "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola\nMLP_uroven2_kapitola",
+      "subtitle": "",
+      "h2": "MLP-uroven3-nadpis, MLP_uroven3_nadpis",
+      "h3": "",
+      "h4": "",
+      "hr": "",
+      "hrBefore": "",
+      "hrAfter": "",
+      "br": "",
+      "brBefore": "MLP_text_bez1radku\nMLP_text_bez1radku_-0-12-\nMLP_text_bez1radku_-12-0\nMLP-text-bez1radku\nMLP-text-bez1radku--0-12\nMLP-text-bez1radku--12-0\nMLP_dopis_bez1radku",
+      "brAfter": "",
+      "blockquote": "MLP_verse_-0-12-\nMLP_verse_-12-12-\nMLP-dopis-bez1radku--I",
+      "figure": "MLP_obrazky\nMLP-obrazky",
+      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-verse\nMLP-verse.+\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b\nMLP_citat",
+      "strong": "MLP-tiraz-autor-a-nazev\nMLP_tiraz_autor_a_nazev\nMLP-licence-paragraf",
+      "remove": "",
+      "ignore": ""
+    },
+    "structure": [
+      {
+        "isSection": true,
+        "id": "section-1",
+        "children": [
+          {
+            "filename": "bajecna_leta_pod_psa_001.md",
+            "xhtml": "bajecna_leta_pod_psa_001.xhtml",
+            "id": 0,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bajecna_leta_pod_psa_002.md",
+            "xhtml": "bajecna_leta_pod_psa_002.xhtml",
+            "id": 1,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bajecna_leta_pod_psa_003.md",
+            "xhtml": "bajecna_leta_pod_psa_003.xhtml",
+            "id": 2,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bajecna_leta_pod_psa_004.md",
+            "xhtml": "bajecna_leta_pod_psa_004.xhtml",
+            "id": 3,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bajecna_leta_pod_psa_005.md",
+            "xhtml": "bajecna_leta_pod_psa_005.xhtml",
+            "id": 4,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bajecna_leta_pod_psa_006.md",
+            "xhtml": "bajecna_leta_pod_psa_006.xhtml",
+            "id": 5,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bajecna_leta_pod_psa_007.md",
+            "xhtml": "bajecna_leta_pod_psa_007.xhtml",
+            "id": 6,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bajecna_leta_pod_psa_008.md",
+            "xhtml": "bajecna_leta_pod_psa_008.xhtml",
+            "id": 7,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bajecna_leta_pod_psa_009.md",
+            "xhtml": "bajecna_leta_pod_psa_009.xhtml",
+            "id": 8,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bajecna_leta_pod_psa_010.md",
+            "xhtml": "bajecna_leta_pod_psa_010.xhtml",
+            "id": 9,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bajecna_leta_pod_psa_011.md",
+            "xhtml": "bajecna_leta_pod_psa_011.xhtml",
+            "id": 10,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bajecna_leta_pod_psa_012.md",
+            "xhtml": "bajecna_leta_pod_psa_012.xhtml",
+            "id": 11,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bajecna_leta_pod_psa_013.md",
+            "xhtml": "bajecna_leta_pod_psa_013.xhtml",
+            "id": 12,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bajecna_leta_pod_psa_014.md",
+            "xhtml": "bajecna_leta_pod_psa_014.xhtml",
+            "id": 13,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bajecna_leta_pod_psa_015.md",
+            "xhtml": "bajecna_leta_pod_psa_015.xhtml",
+            "id": 14,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bajecna_leta_pod_psa_016.md",
+            "xhtml": "bajecna_leta_pod_psa_016.xhtml",
+            "id": 15,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bajecna_leta_pod_psa_017.md",
+            "xhtml": "bajecna_leta_pod_psa_017.xhtml",
+            "id": 16,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bajecna_leta_pod_psa_018.md",
+            "xhtml": "bajecna_leta_pod_psa_018.xhtml",
+            "id": 17,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bajecna_leta_pod_psa_019.md",
+            "xhtml": "bajecna_leta_pod_psa_019.xhtml",
+            "id": 18,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bajecna_leta_pod_psa_020.md",
+            "xhtml": "bajecna_leta_pod_psa_020.xhtml",
+            "id": 19,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bajecna_leta_pod_psa_021.md",
+            "xhtml": "bajecna_leta_pod_psa_021.xhtml",
+            "id": 20,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bajecna_leta_pod_psa_022.md",
+            "xhtml": "bajecna_leta_pod_psa_022.xhtml",
+            "id": 21,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bajecna_leta_pod_psa_023.md",
+            "xhtml": "bajecna_leta_pod_psa_023.xhtml",
+            "id": 22,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "bajecna_leta_pod_psa_024.md",
+            "xhtml": "bajecna_leta_pod_psa_024.xhtml",
+            "id": 23,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          }
+        ]
+      }
+    ]
+  },
+  "epub": {
+    "metadata": {
+      "title": "Báječná léta pod psa",
+      "identifier": "urn:uuid:1cfcd01e-1805-4b28-9320-aefe540844ad",
+      "author": "Michal Viewegh",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2019-04-04T00:00:00.000Z"
+    },
+    "chapters": [
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bajecna_leta_pod_psa_001.md",
+        "xhtml": "bajecna_leta_pod_psa_001.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bajecna_leta_pod_psa_002.md",
+        "xhtml": "bajecna_leta_pod_psa_002.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bajecna_leta_pod_psa_003.md",
+        "xhtml": "bajecna_leta_pod_psa_003.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bajecna_leta_pod_psa_004.md",
+        "xhtml": "bajecna_leta_pod_psa_004.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bajecna_leta_pod_psa_005.md",
+        "xhtml": "bajecna_leta_pod_psa_005.xhtml"
+      },
+      {
+        "titleSuggest": "I",
+        "subtitleSuggest": "",
+        "filename": "bajecna_leta_pod_psa_006.md",
+        "xhtml": "bajecna_leta_pod_psa_006.xhtml"
+      },
+      {
+        "titleSuggest": "II\\. Z Kvidova deníku",
+        "subtitleSuggest": "",
+        "filename": "bajecna_leta_pod_psa_007.md",
+        "xhtml": "bajecna_leta_pod_psa_007.xhtml"
+      },
+      {
+        "titleSuggest": "III",
+        "subtitleSuggest": "",
+        "filename": "bajecna_leta_pod_psa_008.md",
+        "xhtml": "bajecna_leta_pod_psa_008.xhtml"
+      },
+      {
+        "titleSuggest": "IV",
+        "subtitleSuggest": "",
+        "filename": "bajecna_leta_pod_psa_009.md",
+        "xhtml": "bajecna_leta_pod_psa_009.xhtml"
+      },
+      {
+        "titleSuggest": "V",
+        "subtitleSuggest": "",
+        "filename": "bajecna_leta_pod_psa_010.md",
+        "xhtml": "bajecna_leta_pod_psa_010.xhtml"
+      },
+      {
+        "titleSuggest": "VI",
+        "subtitleSuggest": "",
+        "filename": "bajecna_leta_pod_psa_011.md",
+        "xhtml": "bajecna_leta_pod_psa_011.xhtml"
+      },
+      {
+        "titleSuggest": "VII",
+        "subtitleSuggest": "",
+        "filename": "bajecna_leta_pod_psa_012.md",
+        "xhtml": "bajecna_leta_pod_psa_012.xhtml"
+      },
+      {
+        "titleSuggest": "VIII",
+        "subtitleSuggest": "",
+        "filename": "bajecna_leta_pod_psa_013.md",
+        "xhtml": "bajecna_leta_pod_psa_013.xhtml"
+      },
+      {
+        "titleSuggest": "IX",
+        "subtitleSuggest": "",
+        "filename": "bajecna_leta_pod_psa_014.md",
+        "xhtml": "bajecna_leta_pod_psa_014.xhtml"
+      },
+      {
+        "titleSuggest": "X",
+        "subtitleSuggest": "",
+        "filename": "bajecna_leta_pod_psa_015.md",
+        "xhtml": "bajecna_leta_pod_psa_015.xhtml"
+      },
+      {
+        "titleSuggest": "XI",
+        "subtitleSuggest": "",
+        "filename": "bajecna_leta_pod_psa_016.md",
+        "xhtml": "bajecna_leta_pod_psa_016.xhtml"
+      },
+      {
+        "titleSuggest": "XII",
+        "subtitleSuggest": "",
+        "filename": "bajecna_leta_pod_psa_017.md",
+        "xhtml": "bajecna_leta_pod_psa_017.xhtml"
+      },
+      {
+        "titleSuggest": "XIII",
+        "subtitleSuggest": "",
+        "filename": "bajecna_leta_pod_psa_018.md",
+        "xhtml": "bajecna_leta_pod_psa_018.xhtml"
+      },
+      {
+        "titleSuggest": "XIV",
+        "subtitleSuggest": "",
+        "filename": "bajecna_leta_pod_psa_019.md",
+        "xhtml": "bajecna_leta_pod_psa_019.xhtml"
+      },
+      {
+        "titleSuggest": "XV",
+        "subtitleSuggest": "",
+        "filename": "bajecna_leta_pod_psa_020.md",
+        "xhtml": "bajecna_leta_pod_psa_020.xhtml"
+      },
+      {
+        "titleSuggest": "XVI",
+        "subtitleSuggest": "",
+        "filename": "bajecna_leta_pod_psa_021.md",
+        "xhtml": "bajecna_leta_pod_psa_021.xhtml"
+      },
+      {
+        "titleSuggest": "XVII",
+        "subtitleSuggest": "",
+        "filename": "bajecna_leta_pod_psa_022.md",
+        "xhtml": "bajecna_leta_pod_psa_022.xhtml"
+      },
+      {
+        "titleSuggest": "EPILOG",
+        "subtitleSuggest": "",
+        "filename": "bajecna_leta_pod_psa_023.md",
+        "xhtml": "bajecna_leta_pod_psa_023.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bajecna_leta_pod_psa_024.md",
+        "xhtml": "bajecna_leta_pod_psa_024.xhtml"
+      }
+    ],
+    "resources": [
+      {
+        "type": "application/x-dtbncx+xml",
+        "href": "OEBPS/toc.ncx"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/bajecna_le_idstyles.css"
+      },
+      {
+        "type": "image/png",
+        "href": "OEBPS/Images/image001_fmt.png"
+      },
+      {
+        "type": "image/png",
+        "href": "OEBPS/Images/image002_fmt.png"
+      },
+      {
+        "type": "image/png",
+        "href": "OEBPS/Images/upoutavka_eknihy_fmt.png"
+      },
+      {
+        "type": "image/png",
+        "href": "OEBPS/Images/obalka_bajecna_leta_s_k_fmt.png"
+      }
+    ],
+    "classes": [
+      "Hyperlink",
+      "MLP-UROVEN3-NADPIS-I",
+      "MLP-citacni-str-rozdeleni",
+      "MLP-dopis-bez1radku",
+      "MLP-licence-hypertext",
+      "MLP-licence-obrazek",
+      "MLP-licence-paragraf",
+      "MLP-licence-text",
+      "MLP-obrazky",
+      "MLP-prima-rec",
+      "MLP-prima-rec-dalsi-odstavce-6b-za",
+      "MLP-scenicke-poznamky",
+      "MLP-text",
+      "MLP-text--12-12",
+      "MLP-text-bez1radku",
+      "MLP-text-bez1radku--0-12",
+      "MLP-text-bez1radku--12-0",
+      "MLP-text-bez1radku--B",
+      "MLP-text-bez1radku--I---0-12",
+      "MLP-text-doprava--B",
+      "MLP-tiraz-autor-a-nazev",
+      "MLP-titulka-autor",
+      "MLP-titulka-nazev",
+      "MLP-uroven2-kapitola",
+      "MLP-uroven3-nadpis",
+      "MLP-venovani",
+      "MLP-verse--0-12",
+      "MLP-verse--12-12",
+      "MLP-verse-drama",
+      "MLP-znak-kurziva-11b",
+      "MLP-znak-tucne-11b",
+      "char-style-override-1",
+      "frame-1",
+      "frame-2",
+      "frame-3",
+      "para-style-override-1",
+      "para-style-override-2",
+      "para-style-override-3"
+    ],
+    "github": {
+      "user": "books-are-next",
+      "repo": "viewegh-bajecna-leta-pod-psa"
+    },
+    "generatedAt": 1652420436634
+  }
+}
