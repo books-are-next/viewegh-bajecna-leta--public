@@ -123,10 +123,14 @@ Zpočátku se skutečně zdálo, že pobyt na horách má na otce příznivý ú
 
 Bezesporu nejvíce však rodinná dovolená svědčila právě Pacovi. Vzepřel se měšťáckému spaní v chatě a na okraji lesa si ve spletenci větví křivě rostoucí břízy brzy vybudoval improvizované visuté lůžko, kde pak strávil všechny následující noci. Přes den se učil vázat uzly, lezl na skály a cvičil se v házení nože.
 
+  
+
 _„Zasvištěla smyčka lasa,  
 štíhlý ryzák tiše zařehtal,  
 mladý kovboj prach si z šatů střásá,  
 vesele si přitom zazpívááál!“_
+
+  
 
 zpíval parodicky Kvido, když se jeho mladší bratr, špinavý a opálený, výjimečně objevil ve dveřích pokoje – obvykle jen proto, aby mu matka vyndala klíšťata.
 
@@ -178,10 +182,14 @@ Kvido vytáhl z knížky černobílou pohlednici.
 
 „Kde jsi ji sehnal?“ usmívala se matka. Obrátila ji a četla:
 
+  
+
 _„Na chalupě v horském lese  
 žemlovka se na stůl nese.  
 Nechceme mít nijaký  
 abstinenční příznaky!“_
+
+  
 
 „Bezvadný!“ smál se Kvidův otec.
 
