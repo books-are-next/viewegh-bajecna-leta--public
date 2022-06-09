@@ -5,8 +5,6 @@ contentType: prose
 
 1
 
-  
-
 Většinou, když Kvido přemítal, co jeho otce mohlo tak zlomit, že si při svém přeřazování na jinou práci vybral z pěti nabízených míst, kde byla i tři místa úřednická, právě místo člena závodní stráže, nemyslíval ani tak na onen trochu záhadný výslech na Státní bezpečnosti, o němž mu otec odmítal říct cokoli bližšího, ani na onen rozhlasový pořad s názvem Případ Kohout, kde o organizovaném seskupování nepřátel socialistického zřízení v místě dramatikova stávajícího pobytu hovořil mezi jinými i soudruh Šperk; myslíval na inženýra Zváru.
 
 „To je průser, člověče!“ řekl Zvárovi Kvidův otec hned nazítří po incidentu se Šperkem.
@@ -65,9 +63,7 @@ V pondělí ráno přišli oba Kvidovi rodiče do práce společně; na vrátni
 
 Kvidův otec naštěstí sloužil také noční služby, takže jeho žena byla poloviny těchto setkání ušetřena, a on sám se zase mohl vyhnout setkáním s bývalými kolegy, jejichž ranní bodré průpovídky, pronášené ovšem během nebývale rychlé chůze, a proto nejednou zcela nedopovězené, ho jakýmsi zvláštním způsobem skličovaly. V noci měl i více času na čtení, na které se ale nyní ne vždy dokázal soustředit; v takových dnech potom ubíjel hodiny a minuty v opakovaných a z hlediska jeho povinností vlastně nadbytečných pochůzkách po celé administrativní budově: Pomalu se vlekl tmavými chodbami, četl si jmenovky na dveřích, nahlížel do známých kanceláří a kuželem své baterky přejížděl po rodinných fotografiích pod skly na pracovních stolech. Občas se také bavil tím, že zašel do své bývalé kanceláře a studoval poznámky v diářích obou svých pokračovatelů – Zváry a jeho nového zástupce. „Ti pitomci,“ chichotal se tiše. „Ti blbci.“
 
-2
-
-  
+## 2
 
 Zatímco v podniku Kvidův otec navenek předstíral, že je s novým pracovním zařazením již smířen a že tak alespoň došel nikdy nepoznaného klidu, doma nepředstíral po čase již vůbec nic a cele se poddal své porážce. Stával se zamlklým a reagoval apaticky nebo naopak velmi podrážděně. Ploužil se unaveně po domě, lhostejně míjeje zastaralé vzkazy jak ve stolním kalendáři firmy IBM, tak i na nástěnce v předsíni.
 
@@ -91,144 +87,144 @@ Chátral, protože mnohem více než soustružené sloupky k schodištnímu zá
 
 „Špatně se mi psalo,“ vyprávěl Kvido. „Takový chaos! Miluji pořádek a symetrii!“
 
-3
+## 3
 
-Pátek večer. Kuchyně. Přítomna je pouze Kvidova matka. S velkými obtížemi klade prázdné talíře na kuchyňskou linku, zcela zaplněnou špinavým nádobím, zbytky jídel, starými novinami a časopisy, fotbalovými chrániči, plechovkami s Luxolem, odřezky hobry a borovicovou kůrou. Vypne vařič, na kterém vře voda s párky. Vyjde z kuchyně a postaví se doprostřed předsíně. Dlouhá pauza.
+_Pátek večer. Kuchyně. Přítomna je pouze Kvidova matka. S velkými obtížemi klade prázdné talíře na kuchyňskou linku, zcela zaplněnou špinavým nádobím, zbytky jídel, starými novinami a časopisy, fotbalovými chrániči, plechovkami s Luxolem, odřezky hobry a borovicovou kůrou. Vypne vařič, na kterém vře voda s párky. Vyjde z kuchyně a postaví se doprostřed předsíně. Dlouhá pauza._
 
-MATKA (_nahlas, unaveně_): Večeře.
+> ****MATKA** (_nahlas, unaveně_): Večeře.**
 
-Nic se neozývá.
+> **Nic se neozývá.**
 
-MATKA (_hlasitěji_): Večeře!
+> ****MATKA** (_hlasitěji_): Večeře!**
 
-Nic se neozývá.
+_Nic se neozývá._
 
-MATKA (_zoufale křičí_): Večeřé!!
+> ****MATKA** (_zoufale křičí_): Večeřé!!**
 
-KVIDO _(z pokoje_): Už jdu!
+> ****KVIDO** _(z pokoje_): Už jdu!**
 
-OTEC (_z dílny_): Už jdu!
+> ****OTEC** (_z dílny_): Už jdu!**
 
-BABIČKA (_z pokoje, tlumeně skrze mokrý šátek_): Hoří, či co? (_Všichni postupně přicházejí._)
+> ****BABIČKA** (_z pokoje, tlumeně skrze mokrý šátek_): Hoří, či co? (_Všichni postupně přicházejí._)**
 
-OTEC (_na babičku_): Neviděla jste někde jedno moje dlátko?
+> ****OTEC** (_na babičku_): Neviděla jste někde jedno moje dlátko?**
 
-BABIČKA (_odkrývá tvář pod šátkem_): Já?! (_Zakrývá tvář šátkem._)
+> ****BABIČKA** (_odkrývá tvář pod šátkem_): Já?! (_Zakrývá tvář šátkem._)**
 
-OTEC: Půlkulatou tvarovku?
+> ****OTEC**: Půlkulatou tvarovku?**
 
-BABIČKA (_odkrývá tvář pod šátkem_): Co bych s ní asi tak dělala? (_Zakrývá tvář šátkem._)
+> ****BABIČKA** (_odkrývá tvář pod šátkem_): Co bych s ní asi tak dělala? (_Zakrývá tvář šátkem._)**
 
-KVIDO: Půlkulatou žemlovku, nejspíš.
+> ****KVIDO**: Půlkulatou žemlovku, nejspíš.**
 
-MATKA (_ke Kvidovi_): Kde je zase Paco?
+> ****MATKA** (_ke Kvidovi_): Kde je zase Paco?**
 
-KVIDO: U mě v pokoji nebyl.
+> ****KVIDO**: U mě v pokoji nebyl.**
 
-MATKA (_k otci_): Kde je Paco?
+> ****MATKA** (_k otci_): Kde je Paco?**
 
-OTEC: U mě v dílně nebyl.
+> ****OTEC**: U mě v dílně nebyl.**
 
-MATKA (_naštvaně_): Aha… Vzpomínáš si vůbec, kdy jsi ho viděl naposled?
+> ****MATKA** (_naštvaně_): Aha… Vzpomínáš si vůbec, kdy jsi ho viděl naposled?**
 
-BABIČKA (_odkrývá tvář pod šátkem_): To už je asi hodně dávno! (_Sundává si šátek z tváře._)
+> ****BABIČKA** (_odkrývá tvář pod šátkem_): To už je asi hodně dávno! (_Sundává si šátek z tváře._)**
 
-OTEC (_popuzeně k babičce_): Nemám čas koukat na syna, když musím díky vám koukat každou hodinu na elektroměr!
+> ****OTEC** (_popuzeně k babičce_): Nemám čas koukat na syna, když musím díky vám koukat každou hodinu na elektroměr!**
 
-MATKA (_s povzdechem_): Nechte toho. Kolik kdo nožiček?
+> ****MATKA** (_s povzdechem_): Nechte toho. Kolik kdo nožiček?**
 
-KVIDO (_listuje v novinách_): Čtyři.
+> ****KVIDO** (_listuje v novinách_): Čtyři.**
 
-OTEC: Mně jenom jednu. Nějak nemám dneska hlad. Jedl jsem něco v práci.
+> ****OTEC**: Mně jenom jednu. Nějak nemám dneska hlad. Jedl jsem něco v práci.**
 
-MATKA (_posměšně_): Lidi ti už začali házet karamely?
+> ****MATKA** (_posměšně_): Lidi ti už začali házet karamely?**
 
-OTEC (_dotčeně_): Velitel mi dal celou čabajku!
+> ****OTEC** (_dotčeně_): Velitel mi dal celou čabajku!**
 
-BABIČKA: Svlíkla jsi je? Byly přece z konzervy!
+> ****BABIČKA**: Svlíkla jsi je? Byly přece z konzervy!**
 
-MATKA: Byly z konzervy, ale nebyly svlíkací. (_Netrpělivě._) Kolik chceš těch nožiček?
+> ****MATKA**: Byly z konzervy, ale nebyly svlíkací. (_Netrpělivě._) Kolik chceš těch nožiček?**
 
-BABIČKA (_podezíravě_): Jistě? Věřte mi, že ta fólie je na žaludek úplný zabiják…
+> ****BABIČKA** (_podezíravě_): Jistě? Věřte mi, že ta fólie je na žaludek úplný zabiják…**
 
-MATKA (_s námahou se ovládne_): Určitě.
+> ****MATKA** (_s námahou se ovládne_): Určitě.**
 
-BABIČKA (_nahlíží do hrnce_): Nevypadají zrovna svlečeně…
+> ****BABIČKA** (_nahlíží do hrnce_): Nevypadají zrovna svlečeně…**
 
-MATKA (_křičí_): Nevypadaj svlečeně, protože nejsou svlíkací!
+> ****MATKA** (_křičí_): Nevypadaj svlečeně, protože nejsou svlíkací!**
 
-BABIČKA: Laskavě na mě nekřič! Jsem ještě pořád tvoje matka.
+> ****BABIČKA**: Laskavě na mě nekřič! Jsem ještě pořád tvoje matka.**
 
-MATKA: Promiň! Myslela jsem, že seš okresní hygienik.
+> ****MATKA**: Promiň! Myslela jsem, že seš okresní hygienik.**
 
-KVIDO (_ukazuje otci noviny s fotografií Vladimíra Remka na schůdcích kosmické lodi_): Tomu říkám služební cesta! To musí být šťastný člověk!
+> ****KVIDO** (_ukazuje otci noviny s fotografií Vladimíra Remka na schůdcích kosmické lodi_): Tomu říkám služební cesta! To musí být šťastný člověk!**
 
-MATKA: Neprovokuj. Jezte. Dobrou chuť.
+> ****MATKA**: Neprovokuj. Jezte. Dobrou chuť.**
 
-KVIDO: Dobrou chuť.
+> ****KVIDO**: Dobrou chuť.**
 
-OTEC: Nápodobně. Ten chleba –?
+> ****OTEC**: Nápodobně. Ten chleba –?**
 
-MATKA: Je pět dní starej. Nikdo jste nedošli nakoupit.
+> ****MATKA**: Je pět dní starej. Nikdo jste nedošli nakoupit.**
 
-KVIDO: Já teda rozhodně nemůžu. Co jsem napsal tu povídku, nedokážu do samoobsluhy vůbec vstoupit. Nechci riskovat, že se tam duševně zhroutím…
+> ****KVIDO**: Já teda rozhodně nemůžu. Co jsem napsal tu povídku, nedokážu do samoobsluhy vůbec vstoupit. Nechci riskovat, že se tam duševně zhroutím…**
 
-MATKA (_důrazně_): Zítra ráno běžíš nakupovat, i kdyby sis předtím měl vzít diazepam!
+> ****MATKA** (_důrazně_): Zítra ráno běžíš nakupovat, i kdyby sis předtím měl vzít diazepam!**
 
-KVIDO: Proč já? Ať jde otec – má volno…
+> ****KVIDO**: Proč já? Ať jde otec – má volno…**
 
-MATKA (_ironicky s pohledem na otce_): Zbláznil ses? Otec přece dokončuje tu intarzovanou šachovnici! Copak ho můžeme vyrušovat?
+> ****MATKA** (_ironicky s pohledem na otce_): Zbláznil ses? Otec přece dokončuje tu intarzovanou šachovnici! Copak ho můžeme vyrušovat?**
 
-KVIDO (_opovržlivě_): Na dveřích skříně! Panebože! Ukaž mi šachistu, kterej bude ochotnej – aby si mohl zahrát – povalit na zem skříň s kabátama!
+> ****KVIDO** (_opovržlivě_): Na dveřích skříně! Panebože! Ukaž mi šachistu, kterej bude ochotnej – aby si mohl zahrát – povalit na zem skříň s kabátama!**
 
-MATKA (_zjevně spokojeně_): Posuzuješ to příliš účelově. Především je to krásná věc! Něco jako propiska s hodinama. (_Otec chce něco říct, ale přeruší ho příchod Paca. Paco má na sobě vestu z teletiny; na krku má koženou šňůrku s kančím klem, v ruce drží dlátko a je velmi špinavý._)
+> ****MATKA** (_zjevně spokojeně_): Posuzuješ to příliš účelově. Především je to krásná věc! Něco jako propiska s hodinama. (_Otec chce něco říct, ale přeruší ho příchod Paca. Paco má na sobě vestu z teletiny; na krku má koženou šňůrku s kančím klem, v ruce drží dlátko a je velmi špinavý._)**
 
-KVIDO: Chápu, že se někdo nerad meje – ale nechápu, proč je nutný stát se kvůli tomu trampem.
+> ****KVIDO**: Chápu, že se někdo nerad meje – ale nechápu, proč je nutný stát se kvůli tomu trampem.**
 
-MATKA: Kde jsi byl?!
+> ****MATKA**: Kde jsi byl?!**
 
-PACO: Dodělat ten totem…
+> ****PACO**: Dodělat ten totem…**
 
-OTEC (_všimne si dlátka_): Mojím dlátkem! Já tě zabiju!
+> ****OTEC** (_všimne si dlátka_): Mojím dlátkem! Já tě zabiju!**
 
-MATKA: Proč jsi někomu neřekl, kam jdeš? Nebo alespoň nenechal vzkaz?
+> ****MATKA**: Proč jsi někomu neřekl, kam jdeš? Nebo alespoň nenechal vzkaz?**
 
-PACO: Nechal jsem vzkaz!
+> ****PACO**: Nechal jsem vzkaz!**
 
-MATKA (_podezíravě_): Nechal? A kde?
+> ****MATKA** (_podezíravě_): Nechal? A kde?**
 
-PACO (_nalezne v nepořádku na kuchyňské lince borovicovou kůru_): Tady!
+> ****PACO** (_nalezne v nepořádku na kuchyňské lince borovicovou kůru_): Tady!**
 
-MATKA (_prohlíží si Pacovy vrypy_): Co to je?
+> ****MATKA** (_prohlíží si Pacovy vrypy_): Co to je?**
 
-KVIDO: Obrázkové písmo.
+> ****KVIDO**: Obrázkové písmo.**
 
-Kratší pauza.
+_Kratší pauza._
 
-MATKA (_rezignovaně_): Dobře, Paco, ale příště nám to raději napiš normálně. Jako píšeš ve škole, ano? My bledé tváře píšeme a čteme latinkou. Kolik chceš nožiček?
+> ****MATKA** (_rezignovaně_): Dobře, Paco, ale příště nám to raději napiš normálně. Jako píšeš ve škole, ano? My bledé tváře píšeme a čteme latinkou. Kolik chceš nožiček?**
 
-PACO: Už jsem jedl. Medvědí kůže mi upekl havrana. (_Matka chce cosi říci, ale přeruší ji zvonění telefonu. Kvidův otec strne. K telefonu běží Kvido. Matka ho následuje._)
+> ****PACO**: Už jsem jedl. Medvědí kůže mi upekl havrana. (_Matka chce cosi říci, ale přeruší ji zvonění telefonu. Kvidův otec strne. K telefonu běží Kvido. Matka ho následuje._)**
 
-KVIDO: Ano? Nazdar! (_Volá do kuchyně._) Dědeček! Už zase z nemocnice! (_Tišeji._) Co ti bylo?… Aha… A vyhlídky?… (_Usmívá se_). Přeháníš!… V Benešově? Ani se neptej, nechápu, jak to s těmi měšťáky mohl Vančura vydržet… Ne, ve škole celkem dobrý – pochopitelně až na ředitele a na ty obrazy v aule, říkal jsem ti?
+> ****KVIDO**: Ano? Nazdar! (_Volá do kuchyně._) Dědeček! Už zase z nemocnice! (_Tišeji._) Co ti bylo?… Aha… A vyhlídky?… (_Usmívá se_). Přeháníš!… V Benešově? Ani se neptej, nechápu, jak to s těmi měšťáky mohl Vančura vydržet… Ne, ve škole celkem dobrý – pochopitelně až na ředitele a na ty obrazy v aule, říkal jsem ti?**
 
-OTEC (_nespokojeně_): Uvědom si, že mluvíš do telefonu!
+> ****OTEC** (_nespokojeně_): Uvědom si, že mluvíš do telefonu!**
 
-KVIDO: Paco? Dobře, právě večeřel havrany… Ne, to byl vtip!… Žádnou zeleninu, měli jsme znamenité párky, vážně!… Opravdu to nemá souvislost… čestné slovo!
+> ****KVIDO**: Paco? Dobře, právě večeřel havrany… Ne, to byl vtip!… Žádnou zeleninu, měli jsme znamenité párky, vážně!… Opravdu to nemá souvislost… čestné slovo!**
 
-MATKA: Dej mi ho, prosím tě!
+> ****MATKA**: Dej mi ho, prosím tě!**
 
-KVIDO: Otec? Ne, nezhroutil. Říká jenom, že ho všichni zradili. Snědli jeho kuřata a emigrovali.
+> ****KVIDO**: Otec? Ne, nezhroutil. Říká jenom, že ho všichni zradili. Snědli jeho kuřata a emigrovali.**
 
-OTEC: Zbláznil ses?! Opakuju ti, že mluvíš do telefonu!
+> ****OTEC**: Zbláznil ses?! Opakuju ti, že mluvíš do telefonu!**
 
-MATKA: Dej mi ho!
+> ****MATKA**: Dej mi ho!**
 
-KVIDO: Ne, ani ne… (_Usmívá se._) Akorát teď hrozně závidí Remkovi… Kdo to je? Ty nevíš?! Nečteš noviny?… Aha. Jo tak… A co čteš?… O životě koho?… Jo o životě!… A co Zita?… Hm… Jinak? Nevím. Matka mě nutí, abych si ve čtvrťáku dělal řidičák – normální matky to svým synům rozmlouvaj. Připadá mi, že je posedlá rychlostí či co!
+> ****KVIDO**: Ne, ani ne… (_Usmívá se._) Akorát teď hrozně závidí Remkovi… Kdo to je? Ty nevíš?! Nečteš noviny?… Aha. Jo tak… A co čteš?… O životě koho?… Jo o životě!… A co Zita?… Hm… Jinak? Nevím. Matka mě nutí, abych si ve čtvrťáku dělal řidičák – normální matky to svým synům rozmlouvaj. Připadá mi, že je posedlá rychlostí či co!**
 
-MATKA: Nežvaň a dej mi ho!
+> ****MATKA**: Nežvaň a dej mi ho!**
 
-KVIDO: …Otec? Ne, už zase nejezdí… Ne… Řekl nám, že si nenechá přišít neúmyslný zabití. Přesně na to prý ti estébáci čekaj –
+> ****KVIDO**: …Otec? Ne, už zase nejezdí… Ne… Řekl nám, že si nenechá přišít neúmyslný zabití. Přesně na to prý ti estébáci čekaj –**
 
-OTEC (_křičí_): Vezmi mu to – nebo to vyrvu ze zdi!!
+> ****OTEC** (_křičí_): Vezmi mu to – nebo to vyrvu ze zdi!!**
 
-KVIDO: …Ne, to byl otec… Musím ti dát mámu… Tak v neděli ahoj. Ahoj!
+> ****KVIDO**: …Ne, to byl otec… Musím ti dát mámu… Tak v neděli ahoj. Ahoj!**

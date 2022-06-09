@@ -5,8 +5,6 @@ contentType: prose
 
 1
 
-  
-
 Kvidův otec měl letět do Anglie počátkem července. Babička Líba, která díky důslednému střídání žemlovky, tykvových placek, kadeřávkových karbanátků, mrkvových smaženek, škubánků, fazolek s rýží a zapečeného černého kořene v týdenním rodinném jídelníčku konečně našetřila na vytoužený okružní zájezd po Itálii, odlétala již koncem května.
 
 Skutečnost, že odjíždí dřív než Kvidův otec, byla pro babičku zdrojem doslova dětinské radosti. Nemenší radost jí způsobovalo také to, když mohla obě země škádlivě srovnávat; pochopitelně že země z Apeninského poloostrova vycházela z tohoto srovnání jednoznačně vítězně: Babička s potěchou hovořila o vlhkých londýnských mlhách, studeném moři a britské povýšenosti – a v očích jí vesele jiskřilo. Otec, na něhož se babiččino nadšení chtě nechtě přenášelo, jakkoli se snažil zpočátku ovládat, zase mluvil o dusném horku, o kapesních zlodějích a o italské kuchyni, kde se prý většina jídel připravuje na hliníku a na teflonu. Babička, která se s ním až dosud přela prakticky nepřetržitě, přijímala nyní otcovy provokace velmi velkoryse a odpustila mu dokonce i zcela nejapnou poznámku na téma, jak se v italštině asi řekne ‚zhoubný nádor‘. Kvidova matka, která stejně jako Kvido nebyla nikdy dále než ve Vysokých Tatrách, poslouchala jejich vzájemné dobromyslné potyčky s rostoucí nechutí, ačkoli každému z nich cestu upřímně přála. Často ani nestačila sklidit po večeři ze stolu, protože oba cestovatelé nedočkavě rozkládali mapy a prospekty přímo do špinavých talířů.
@@ -22,11 +20,9 @@ pod azurovou oblohou.
 Když únavou klopýtáme,  
 gondolu si přivoláme!_
 
-  
-
 stálo na ní a také tentokrát následoval prozaický dovětek:
 
-Úžasně jsem se zlepšila v italštině a v angličtině! Všechny vás líbá vaše Líba, psala babička.
+> Úžasně jsem se zlepšila v italštině a v angličtině! Všechny vás líbá vaše Líba, psala babička.
 
 „To je možný,“ komentoval to Kvidův otec. „Zato to veršování jí už nějak nejde. Prý: ‚Chodíme po nohou‘! Patrně chodí občas i po rukou!“
 
@@ -134,9 +130,7 @@ Cosi v jejím hlase Kvidova otce přimělo, aby vzhlédl: Jeho žena měla v o
 
 „Kdybych mohla, koupila bych jí třeba cestu kolem světa!“ řekla.
 
-2
-
-  
+## 2
 
 Tak jako mnozí před ním i po něm byl Kvidův otec Západem šokován.
 
@@ -250,9 +244,7 @@ Zavěsila se do svého muže s nebývalou oddaností.
 
 „Jsem moc ráda, že už jsi doma,“ dodala. „Příšerně jsem se tý čuby bála.“
 
-3
-
-  
+## 3
 
 Kvidův otec se po svém návratu z Londýna skutečně trochu změnil. Kvido a jeho matka nebyli jediní, kdo si toho všiml. I některým lidem v podniku, kteří ho dříve měli možnost více poznat, připadal jaksi energičtější a rozhodnější než kdysi. Zdál se být výřečnější a s řadou z nich dokonce vtipkoval. Také jeho tradičně častá vystoupení na poradách byla nyní kritičtější, ironičtější, ale zároveň i koncepčnější. Většinou ovšem neuspěl a i nadále se po takových prohrách uzavíral do jakéhosi vzdorného mlčení, které však už nepůsobilo tolik poraženecky. Jednou či dvakrát překvapeně zaznamenali, že dokáže i zakřičet. Jeho hlas, chůze i gesta získaly jakousi obtížně popsatelnou jistotu.
 
@@ -378,9 +370,7 @@ Několik úspěchů zaznamenal i na fotbalovém hřišti. Kondice i technika m
 
 „Kdo si myl ruce v kašně na Piccadilly Circus a opíral se vlastními zády o Westminster Abbey, nebude si dělat hlavu z utkání proti B-mužstvu Slavoje Čerčany,“ vykládal Kvido.
 
-4
-
-  
+## 4
 
 Oslnivé výboje Kvidova otce si žádaly stálé obdivovatele. To však byla potíž: Kvido i jeho matka otci už nechtěli popřávat sluchu, Paco byl moc malý, babička Líba ze známých důvodů nepřicházela do úvahy vůbec, a konečně dědeček Jiří, který rodinu občas navštěvoval a jehož uznání by si byl Kvidův otec vydobyl mimořádně rád, byl zase životem už příliš unavený, než aby se mohl stát tím správným posluchačem historek ze Západu. Zbýval ale dědeček Josef, jehož nekritický obdiv k této části světa byl všeobecně znám, a babička Věra.
 
@@ -436,9 +426,7 @@ Kvidův otec se ohlédl po tvářích ostatních stolovníků: Vypadalo to však
 
 „Jo hloupost?“ řekl dědeček a zvýšil hlas: „Jo hloupost? Tak mi teda řekni, proč sem takovou krásnou hloupost ty kurvy komunistický nedovezou!“
 
-5
-
-  
+## 5
 
 Počátkem září přiletěla ze skláren v Pule do Sázavy tříčlenná obchodní delegace, dva muži a jedna mladá žena, aby tu pokračovali v jednání, jehož první kolo bylo úspěšně zahájeno na jaře.
 
@@ -609,8 +597,6 @@ procvala je trava i murava,
 procvala je lika i zelenika,  
 procvale su višnje i čerišnje…,“_
 
-  
-
 zpívala tiše Mirjana.
 
 Jestliže Kvido při pohledu na její velká obnažená ňadra pocítil pouze prudký zmatek, který záhy vyústil v nepřekonatelnou touhu přitisknout obličej těsně k dřevěné podlážce lodi, pak tentýž pohled svrhl jeho otce až na samé dno propasti hysterie.
@@ -649,9 +635,7 @@ Okamžitě potlačit sklon k polygamii (otec), objevilo se nazítří v přís
 
 „A koupit loď,“ upozorňoval matku Kvido.
 
-6
-
-  
+## 6
 
 Kvido začínal osmou třídu a čekalo ho nelehké období. Jaruška ho o dobré tři centimetry přerostla a o přestávkách se bavila – jak Kvidovi připadalo – jen s několika předčasně vyspělými spolužáky, kteří byli všichni o hlavu vyšší než on. Sice se už prakticky úplně zbavil někdejší tloušťky (trocha nadbytečného tuku v bocích mu ovšem navždy zůstala) a jeho matka mu namísto kostěných brýlí opatřila slušivé obroučky z tenkého zlatého kovu, ale přesto si připadal malý a ošklivý. Dlouhé minuty trávil před zrcadlem a otco­vo „Take it easy!“ mu pomáhalo pramálo. Mluvit s Jaruškou mu začínalo způsobovat nikdy nepoznané obtíže.
 

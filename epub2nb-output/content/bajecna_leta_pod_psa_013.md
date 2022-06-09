@@ -5,8 +5,6 @@ contentType: prose
 
 1
 
-  
-
 Kvidova matka měla s poštou v Sázavě problémy již mnohokrát. Kromě těch několika odlepených cizokrajných známek, které klidně oželela, se jí zde ztratily i celé dopisy, a dokonce i jedna nebo dvě knížky, které si objednala v Klubu čtenářů; doporučené zásilky, které byly adresovány do zaměstnání, jí naopak na poště nesmyslně nechávali, takže si pro ně musela po práci osobně dojít. Většinou to však odbyla mávnutím ruky.
 
 Když ale onoho nedělního odpoledne stála na chodbě nemocnice na Bulovce s těmi tak zoufale zbytečnými rodinnými fotografiemi, loupanými broskvemi v sirupu a novou knížkou o dějinách Prahy, zatímco telegram o dědečkově smrti, odeslaný z nemocnice v sobotu v 11.35, stále ještě ležel kdesi za poštovní přepážkou, přísahala, že tentokrát to tak nenechá.
@@ -113,9 +111,7 @@ Prudce se otevřely.
 
 „A nikomu netykej!“ zaječel Kvido už na útěku.
 
-2
-
-  
+## 2
 
 Kvidova matka sice nikdy nemohla s naprostou jistotou říci, že ona vytržená stránka se Shakespearovým sonetem č. 66, kterou v pondělí večer nalezla v balíku s dědečkovými osobními věcmi, skutečně vyjadřuje jeho vědomé přání stran motta smutečního oznámení, ale protože svého otce dobře znala a věděla, že by s knihou něco takového neprovedl, pokud by k tomu neměl právě nějaký zcela mimořádný důvod, okamžitě tomu uvěřila. Četla sonet pohnutě znovu a znovu a navzdory bolesti, která ji celou prostupovala, pocítila malou radost, že nechá-li tuto báseň vytisknout v záhlaví, dá svému tatínkovi jakousi dodatečnou možnost ještě jednou oslovit své nejbližší a své dávné přátele něčím, co před svou smrtí snad opravdu cítil a co mu zřejmě připadalo důležité.
 
@@ -173,9 +169,7 @@ Kvidův otec ji vzal kolem ramen.
 
 „To je nakonec pravda.“
 
-3
-
-  
+## 3
 
 Kvido při obřadu neuronil ani slzu. Civěl na rakev zaplavenou květinami a věnci a mačkal si kolena, jak to dělával, když seděl u zubaře. Hněvivě poslouchal náhradního Mahlera a blahořečil matce, že odmítla jakékoli projevy. Myslel nejen na dědečka, ale i na jeho přítele Františka, na Zitu, na svého otce – a s tichým vzdorem si mumlal Shakespearovy verše.
 

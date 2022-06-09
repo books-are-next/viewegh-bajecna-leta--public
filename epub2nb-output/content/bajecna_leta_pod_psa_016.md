@@ -5,8 +5,6 @@ contentType: prose
 
 1
 
-  
-
 „Proč proboha vrátnej?!“ křičela na Kvida matka, když jí v pátek po příjezdu do Sázavy oznámil, že zanechal studia a že bude pracovat ve sklárnách jako noční vrátný. „Copak jste se všichni zbláznili?!“
 
 „Budu mít čas na psaní a čtení,“ řekl Kvido.
@@ -87,9 +85,7 @@ Jaruška se rozhlédla kolem sebe, přistoupila blíže k němu a ostýchavě 
 
 „Opuchlo mi to,“ řekla téměř plačtivě. „Jsem alergická na fixky.“
 
-2
-
-  
+## 2
 
 Když se Kvido vrátil v pondělí ráno z noční směny domů, zastihl matku u kuchyňského stolu. Vypadalo to, že vůbec nespala. Před ní stál plný popelník.
 
@@ -175,9 +171,7 @@ Od toho dne se v ovzduší domácnosti natrvalo usadilo cosi nesnesitelně tís
 
 „Je obtížné žertovat s člověkem, který usedá k večeři s rukama plnýma třísek z vlastní rakve,“ vyprávěl později Kvido. „Ta rakev – to byla mistrovská ukázka takzvaného _autopatinování_.“
 
-3
-
-  
+## 3
 
 „Identitu? Tu přece ztrácíme všichni,“ řekl nazítří Kvidově matce doktor Liehr. Kvidův otec jel k rodičům do Nuslí a ona zatím pozvala doktora na kávu. Seděli v Luxoru.
 
@@ -207,9 +201,7 @@ Kvidova matka se smutně usmála.
 
 „Do té doby,“ řekl vesele doktor, „ho musíme nějak rozptýlit!“
 
-4
-
-  
+## 4
 
 Kvido chodil při obchůzkách pochopitelně nesrovnatelně rychleji než jeho mnohem starší kolegové, a tak vždycky vyšetřil půlhodinku, kterou mohl někde v klidu strávit, aniž ho kdokoli postrádal. Teď v létě ji většinou trávil na střeše administrativní budovy. Brzy si na to tak zvykl, že se pokaždé už nemohl dočkat, až bude moci opustit dusné kanceláře, vylézt po kovovém žebříku, otevřít těžký poklop – a pak už jen vdechovat ten mohutný příval svěžího nočního vzduchu.
 
@@ -223,13 +215,9 @@ Jednoho dne objevil Kvido v koutě střechy starou roli černé asfaltové lepe
 
 SLÁVA KOMU
 
-  
-
 „Zbláznil se?“ vyjekla Kvidova matka zděšeně a okamžitě se ohlédla, zda v kuchyni není přítomen Kvidův otec, pro něhož by taková podívaná znamenala bezpochyby okamžitou smrt. Když se její pohled znovu vrátil k obloze, po otázce už nebylo ani vidu.
 
-5
-
-  
+## 5
 
 „Žijeme ve lži,“ opakoval po Kafkovi Kvido, a to nejen tehdy, když stál pod střešním neónem. Říkával si to, když naslouchal za dveřmi zasedacích místností, když četl noviny, když mluvil s lidmi.
 
@@ -241,9 +229,7 @@ Syžet novely byl následující: Ředitel jednoho velkého podniku si na místo
 
 Na napsání své prvotiny Případ dvanáctého patra potřeboval Kvido něco málo přes tři týdny. Poslední srpnovou neděli rukopis zabalil a v pondělí ráno ho spěšně poslal do pražského nakladatelství, jehož redaktor mu lektoroval první povídky. „Česká literatura,“ komentoval to Kvido, „nemůže již déle čekat.“
 
-6
-
-  
+## 6
 
 „Milý mladý příteli!“ řekl tenkrát Kvidovi redaktor v úvodu jejich prvního osobního setkání. „Vy jste přece tak rozkošně naivní!“
 

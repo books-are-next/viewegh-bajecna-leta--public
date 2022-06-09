@@ -5,8 +5,6 @@ contentType: prose
 
 1
 
-  
-
 Kariéra Kvidova otce skončila na sklonku léta roku devatenáct set sedmdesát sedm, a to tak rychle, jak náhle začala.
 
 Už během předcházejícího podzimu se však odehrála jedna zdánlivě bezvýznamná příhoda, v níž by kdosi, kdo má pro takové věci smysl, mohl spatřovat jakousi předehru, jakýsi první symptom budoucí krize: Malý Paco – naprosto stejným způsobem jako kdysi jeho bratr – shodil při kuželkách ve školce zasklený obraz prezidenta, tentokrát ovšem nikoli již Ludvíka Svobody, nýbrž Gustáva Husáka.
@@ -47,9 +45,7 @@ Kvidova matka osušila Pacovi slzy a poslala ho pryč.
 
 „Byla to první _politická_ facka, kterou Paco dostal,“ vyprávěl Kvido.
 
-2
-
-  
+## 2
 
 Kvidův otec se tedy snažil _dávat si pozor_. Nebylo to vůbec lehké, mimo jiné proto, že Pavel Kohout, od ledna signatář Charty, se po vyhoštění z Prahy odstěhoval do své sázavské vilky natrvalo: Jestliže ho tu spolu s Kvidovou matkou vídávali už dříve, kdy přijížděl jen občas, bylo nanejvýš nepravděpodobné, že by ho nyní nepotkali.
 
@@ -111,7 +107,7 @@ Kvidova matka mu věnovala obdivný pohled.
 
 „Jedno,“ řekl vesele Pavel Kohout. „Druhé koupím já.“
 
-3
+## 3
 
 _„Na překonání bouří, psot a tísní,  
 aby se život rozletěl jak pták,  

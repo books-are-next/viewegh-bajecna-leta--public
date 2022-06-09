@@ -5,8 +5,6 @@ contentType: prose
 
 1
 
-  
-
 Vilka pod Skřivánkem, kam se po matčině návratu z porodnice rodina definitivně nastěhovala, připomínala babičce Líbě jeden malý roztomilý dívčí penzión v Lausanne, kde kdysi dávno několikrát pobývala. Táž podezdívka z červeného pískovce, tytéž okrové okenní rámy, velmi podobná veranda, obrostlá psím vínem, i ty prý téměř identicky rozmístěné smrky a túje na zahradě v ní vyvolávaly velmi sentimentální vzpomínky.
 
 Na jaře toho roku odjela se dvěma přítelkyněmi na zájezd do Německé demokratické republiky. Necelý týden zde žily uprostřed nádherné, probouzející se přírody Harckého lesa – avšak tím více skličoval babičku blížící se návrat do špinavého, zakouřeného města. Poslední dobou trpěla totiž některými dýchacími obtížemi, které bez výjimky přikládala na vrub ovzduší v Praze, a podobně jako obě její přítelkyně nevylučovala zcela možnost, že má rakovinu plic.
@@ -15,8 +13,6 @@ _V restauraci v Harckém lese
 vrchní kávu, dorty nese.  
 Když si každý dal,  
 volá: Noch einmal!_
-
-  
 
 veršovala sice na černobílé pohlednici tradičně, ale pak následoval nezvyklý a podivný prozaický dodatek: Dýcháme kyslík do zásoby – snad nám v té Praze vydrží! napsala.
 
@@ -134,9 +130,7 @@ Babička Líba si skleničku obalila papírovým ubrouskem.
 
 „Ekologie – a originálně,“ řekl redaktor. „To beru. Pochopitelně bez toho Kohouta. No vidíte, že to jde, když chcete…“
 
-2
-
-  
+## 2
 
 Bylo už řečeno, že Kvido plynně četl dávno předtím, než začal v Sázavě chodit do první třídy. Dalo by se tudíž očekávat, že ho primitivní holé věty ve Slabikáři – jak se to v podobných případech dětem stává – budou nudit, ale jeho problém byl trochu jiný: Protože spojoval slabiky tak jako každý zkušený čtenář zcela automaticky, podvědomě, nechápal dost dobře účel slov, která byla v učebnici právě jen kvůli procvičování onoho spojování. Kvido nechtěl věřit, že by tu všechna ta slova byla vytištěna prostě jen tak, bez nějakého záměru či cíle, a během jejich čtení se usilovně snažil dopátrat jejich smyslu. Věděl už, že slova v knihách či divadelních hrách nejsou rozhodně vybírána náhodně – a odmítl připustit, že by tomu v případě slov na prvních stránkách Slabikáře mohlo být jinak. Tím ovšem slova jako OTA, KOLO nebo MLÉKO dostávala v Kvidových ústech podivně naléhavý, dramatický akcent, jehož si každý posluchač ihned všiml, ale sotva si ho dokázal vysvětlit.
 
@@ -240,9 +234,7 @@ Ať byly některé tyto poznámky jakkoli jízlivé, jedna věc byla nepochybná
 
 „Jasně že přeháním,“ řekl Kvido. „Chci vám tak ukázat, co tu mohlo _spolupůsobit_ zároveň se vším ostatním. Vám to bude znít nesmyslně, ale já jsem pořád ještě přesvědčenej, že moje recitace pro komunisty, koupě Šperkova psa a otcův fotbal byly, abych tak řekl, tři zdroje a tři podmínky jeho následné krátké kariéry.“
 
-3
-
-  
+## 3
 
 „Tak jak bydlíte, soudruhu,“ smál se Šperk, když si ke Kvidovu otci na okamžik přisedl v závodní jídelně.
 
@@ -410,9 +402,7 @@ Po několika měsících udělal konečně to, čeho se předtím tak obával: N
 
 „Připadá,“ přiznal Kvidův otec svou porážku.
 
-4
-
-  
+## 4
 
 Kvidův otec propadal znovu pesimismu, avšak nezdary při výcviku Něhy nebyly pochopitelně jediným důvodem; zdálo se mu naopak, že má těch důvodů čím dál tím víc.
 
@@ -560,9 +550,7 @@ A skutečně: Když se cesta stočí nazpět k severu, babička Líba už na n
 
 „Už je to zase dobrý, holka,“ říká jí Zita nikoli bez pohnutí a dává jí zapít příslušnou tabletu. „Už jsme zase tady.“
 
-5
-
-  
+## 5
 
 Přišly Vánoce. Dědeček Jiří musel na jakousi operaci, a nemohl tudíž přijet. Kvido, jeho matka a babička Líba mu proto dárky přivezli o den dříve, do nemocnice. Dědeček byl trochu bledý, ale usmíval se. Kvido zahlédl na stolku u postele malou, poměrně silnou knížku; byla bez přebalu, takže titul ani autora nebylo možné zjistit.
 

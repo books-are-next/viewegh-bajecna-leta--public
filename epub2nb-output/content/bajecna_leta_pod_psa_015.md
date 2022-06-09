@@ -5,8 +5,6 @@ contentType: prose
 
 1
 
-  
-
 Jednoho teplého prázdninového večera, kdy se ohyb řeky třpytil odrazem bledého měsíčního svitu, poprosil Kvido Jarušku, zda by mu neukázala pohlaví. Jaruška se ale zdráhala: Zavrtěla hlavou, dívala se upřeně do tmavé mokré trávy, a kdykoli chtěl Kvido promluvit, přikryla mu ústa svou rozpálenou dlaní.
 
 Poslední den před Kvidovým odjezdem na studia do Prahy se v lese nad Bílým kamenem svlékli. Stáli v ponožkách na jehličí a cítili se trapně. Kvido, který téměř nic neviděl, si vzpomněl na otcovu šeroslepost. Jaruška nevydržela stát a schoulila se na hromádku svého šatstva. Kvido si rozpačitě klekl vedle ní a jen marně vzpomínal na onu veselou samozřejmost, s níž se před ním Jaruška odhalovala v dětství, jakož i onen klidný pohled zaujatého brýlatého badatele, s nímž ji tenkrát pozoroval on sám. Nikdo z nich nevěděl, co dělat.
@@ -41,9 +39,7 @@ Věděl z knih i to, jak se v podobných případech postupuje: Sexuolog v p
 
 „Takový je úděl intelektuála,“ stýskal si hořce Kvido. „Taková je úloha veškerého poznání.“
 
-2
-
-  
+## 2
 
 Kdyby nebyl Kvido panic a tolik se tím nezaměstnával, nezájem o studium ekonomie, který začal velmi záhy pociťovat, by ho možná přivedl na známou dráhu nezdárného synka na studiích.
 
@@ -67,9 +63,7 @@ Jeho poznámky z přednášek – pokud na ně ještě vůbec chodil – byly �
 
 Přesto se mu podařilo zkoušky skládat; většinou dokonce hned napoprvé. Skripta otvíral večer předtím a s odporem jimi listoval. Nazítří pak své kolegy dráždil jakousi zvláštní apatičností, kterou zřejmě považovali za pózu. Zkoušejícímu vždycky něco řekl, ale samotnému mu to připadalo žalostně málo. Nemohl pochopit, že ho ještě nevyhodili. Někdy si to přál. Odborný styl skript a učebnic, v němž pro člověka a pro skutečný život nezbývalo většinou mnoho místa, ho jakoby dusil. Když si večer přitáhl nějakou dobrou novelu nebo román, připadal si jako ryba, navrácená z kádě nazpět do moře. Rozkošnicky se protahoval.
 
-3
-
-  
+## 3
 
 Na jaře odjela babička s dědečkem na týden na Sázavu a Kvido v jejich malém bytě osaměl. Potácel se po pokoji a myslel na to, že mu v létě bude dvacet. Když se v jedné chvíli přistihl, že drží za prsa babiččinu krejčovskou pannu, pochopil, že takhle to dál nejde.
 

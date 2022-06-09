@@ -5,8 +5,6 @@ contentType: prose
 
 1
 
-  
-
 Hypotéza Kvidovy matky, že příchod malého dítěte do rodiny bude mít zásadní vliv na průběh otcovy neurózy, se bohužel nepotvrdila. Vyrobil Aničce sice několik dalších dřevěných zvířátek, miniaturních kočárků a nejrůznějších více či méně pohyblivých panenek a každý den si s ní hrával, ale na jeho nemoci se tím nic podstatného nezměnilo.
 
 Naštěstí se však brzy objevilo cosi jiného, co Kvidova otce v příštích letech přivedlo od myšlenek na smrt ne-li snad hned do samého středu života, tedy alespoň na jeho okraj – totiž sovětská perestrojka. Více času než prací na rakvi (která, mimochodem, byla četnými vrubořezy již poněkud přezdobena, čímž ztratila hodně ze své původní strohé hrůznosti a spíše než lůžko smrti připomínala nyní střešní krov perníkové chaloupky) trávil teď otec sledováním zpravodajské relace Vremja, a zejména pak Gorbačovových projevů. V čase jejich vysílání býval ovšem nejednou v práci, a tak mu matka – za tímto účelem zaškolená – musela příslušné pořady nahrávat na laciný videorekordér z Hongkongu, který otci odkudsi ze Západu přivezl inženýr Zvára.
@@ -41,9 +39,7 @@ Sklepní dílna však neosiřela nadlouho, neboť i Kvidův otec začal zvolna 
 
 „Zjistil,“ vyprávěl vesele Kvido, „že Šperk a ostatní si ty výstřižky dělají taky – a navíc seženou i zcela úzkoprofilový Sputnik.“
 
-2
-
-  
+## 2
 
 Ještě nějaký čas se však v rodině hovořilo o Sovětském svazu poměrně často, a to díky babičce Líbě.
 
@@ -87,9 +83,7 @@ Navzdory těmto ztřeštěným představám přišla později z Leningradu pohl
 
 „To nevím,“ řekla zamyšleně Kvidova matka.
 
-3
-
-  
+## 3
 
 Jak později vyšlo najevo, první z těch silných bolestí, na něž už sama nestačila, přišly na babičku Líbu ještě v hale hotelu Družba, kde spolu s ostatními turisty čekala na autobus z letiště. Tamější lékař u ní byl během jediné minuty; rub této příznivé okolnosti představovalo šest postříbřených čajových lžiček s nápisem Družba, na které dotyčný doktor – prodíraje se babiččiným cestovním kostýmem – postupně stále udiveněji narážel.
 

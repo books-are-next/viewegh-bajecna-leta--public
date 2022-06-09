@@ -5,8 +5,6 @@ contentType: prose
 
 1
 
-  
-
 Na jaře příštího roku, těsně před tím, než začal Kvidův otec definitivně šeptat, zjistila Kvidova matka, když jednou připravovala snídani, že se ztratily veškeré skleničky a skleněné hrnky, které kdysi přinesl z továrny. Udiveně prohledala všechny police a skříňky, ale všechno, co objevila, byly jen dva prastaré porcelánové hrníčky s ulomenými uchy a jedna sklínka od meruňkové marmelády. Nakonec ji napadlo podívat se do odpadkového koše. Šel otevřít jen ztěžka, a jak byl plný střepů, zachrastil.
 
 Zavolala otce a věnovala mu tázavý, vyčítavý pohled.
@@ -117,9 +115,7 @@ Kvidův otec s nejistým úsměvem vyšel na terasu.
 
 „To je v pořádku,“ řekl Kvidův otec.
 
-2
-
-  
+## 2
 
 Ani tento konkrétní důkaz ho však pocitu neznámého ohrožení nezbavil. I nadále byl velmi úzkostný, vztahovačný, i nadále trpěl nepřetržitým iracionálním sebeobviňováním. Když ho Kvido nebo jeho matka v domě míjeli, uhýbal pohledem. Kvidova matka se však nevzdávala. Dostanu ho z toho, umiňovala si. Její instinkt jí napovídal, že by mu mohla prospět změna prostředí. Obtelefonovala několik podnikových rekreačních zařízení a nakonec se jí podařilo zamluvit na prvních čtrnáct dní prázdnin čtyřlůžkový pokoj na malé chatě v Krkonoších.
 
@@ -131,8 +127,6 @@ _„Zasvištěla smyčka lasa,
 štíhlý ryzák tiše zařehtal,  
 mladý kovboj prach si z šatů střásá,  
 vesele si přitom zazpívááál!“_
-
-  
 
 zpíval parodicky Kvido, když se jeho mladší bratr, špinavý a opálený, výjimečně objevil ve dveřích pokoje – obvykle jen proto, aby mu matka vyndala klíšťata.
 
@@ -245,9 +239,7 @@ Vzhlédl k matce prosebnýma očima.
 
 „Hraje divadlo,“ pošeptal Kvidovi Paco. „Polsko mu není dost dobrý, světákovi!“
 
-3
-
-  
+## 3
 
 Počátkem září se Kvidova matka definitivně rozhodla, že svému muži sežene psychiatra, neboť, ač nerada, musela v duchu konstatovat, že na jeho podivnou neurózu se svou intuicí nestačí.
 
@@ -279,9 +271,7 @@ Zita píchla prstem před sebe.
 
 „V Blaníku,“ řekla. „Jako topič.“
 
-4
-
-  
+## 4
 
 V říjnu tedy začal Kvidův otec jezdit za doktorem Liehrem do kotelny kina Blaník. V Kvidově postoji vůči otci tím došlo k jisté změně: Poprvé totiž připustil, že by otcovo podivné chování a jeho poraženecké nálady mohly být projevem skutečné nemoci; psychiatr, navíc údajně velmi schopný, by jistě poznal, že otec simuluje, uvažoval Kvido. Začal se proto k otci chovat ohleduplněji – a jejich vzájemnému vztahu to prospělo.
 
