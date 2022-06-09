@@ -5,8 +5,6 @@ contentType: prose
 
 1
 
-  
-
 Kvidův otec se již několik dní před svatbou svého syna definitivně rozhodl, že oněch přibližně jedenáct set metrů, které dělily jeho garáž od obřadní síně, pojede, jak se říká, _na jistotu_. Své předsevzetí pak splnil beze zbytku, a to i navzdory tomu, že rychlost jízdy, kterou volil, by se snad lépe hodila k pohřbu. Ignoroval nechápavé troubení vozů jedoucích za ním i stále se zvětšující mezeru před ním, svíral pevně volant a jeho pohled byl chladnokrevně soustředěný.
 
 Když svatebčané vystoupili z vozů, seřadili se podle protokolu a vydali se na štěrkem vysypané nádvoří před klášterem, čekalo je první překvapení v podobě vzorně vyrovnaného špalíru osmi uniformovaných členů závodní stráže v průměrném věku šedesát sedm let.
@@ -38,8 +36,6 @@ a plná lahody.
 Ach, tam bys byla šťastna!  
 Je to zem svobody,“_
 
-  
-
 recitoval mezitím chlapec. Když došel ke slovům „tam bys byla šťastna“, otočil k dívce rychle tvář. Soudružka Šperková kývla. Kvido pohlédl na Jarušku. Všiml si, že se jí pod závojíčkem pohybují rty.
 
 _„Potok si cestu klestí  
@@ -47,17 +43,13 @@ a časem prorve břeh.
 Náš klid a naše štěstí  
 je jenom v štěstí všech,“_
 
-  
-
 skončili dvojhlasně mladí umělci.
 
 „A herdek!“ zašeptal slyšitelně Paco.
 
 „Děkujeme pionýrům za pěkné úvodní vystoupení,“ řekl soudruh Šperk a vlídně pokynul oddávajícímu.
 
-2
-
-  
+## 2
 
 Svatební hostina se z úsporných důvodů konala doma, na třech k sobě přiražených stolech na terase. Rozhodně nebyla nikterak okázalá.
 
@@ -121,9 +113,7 @@ O minutu později se z hlubin domu ozval naříkavý zvuk protahovačky.
 
 „Pane doktore,“ řekla Kvidova matka. „Mohl byste mi prosím nalít z támhleté láhve?“
 
-3
-
-  
+## 3
 
 Kvidův otec se na svatební hostinu vrátil až těsně před devátou. Byl oblečen v červených teplákách a byl značně uřícený. V levé ruce držel hořící pochodeň.
 

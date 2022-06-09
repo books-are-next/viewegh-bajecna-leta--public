@@ -5,8 +5,6 @@ contentType: prose
 
 1
 
-  
-
 Kvidova matka celou zimu přemýšlela, jak svého muže rozptýlit, aby přestal myslet na smrt. Byl s prací na rakvi prakticky u konce a ona se hrozila toho, co přijde dál.
 
 Jednoho dne, zatímco otec vystýlal svůj ponurý výrobek bohatě řaseným saténem, si zavolala oba své syny.
@@ -107,9 +105,7 @@ Kvido pochmurně pohlédl na dveře – a překvapeně vstal. Ostré cípy hvě
 
 „Pojď!“ řekla Jaruška.
 
-2
-
-  
+## 2
 
 Počátkem dubna navštívili Jaruška a Kvido pražský biograf Jalta; přišli něco před šestou, takže se už promítalo – na programu byl americký film Planeta opic. Kvido si koupil vstupenku, i když předpokládal, že představení stejně nezhlédne až do konce, a Zita s Jaruškou se zatím se svolením vedoucího zamkly v kanceláři kina.
 
@@ -189,9 +185,7 @@ To se změní, hlásal optimisticky její pohled.
 
 „Odkdy ty toužíš spát doma?“
 
-3
-
-  
+## 3
 
 „Svatba v máji, brzy na máry,“ varovala Kvida mstivě babička Líba.
 

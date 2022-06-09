@@ -5,8 +5,6 @@ contentType: prose
 
 1
 
-  
-
 Týden po svatbě se v Praze Kvido znovu sešel s redaktorem. Toho dne definitivně pochopil, že naděje na vydání Případu dvanáctého patra je prakticky nulová, a to zcela bez ohledu na to, zda se mu podaří, či nepodaří implantovat do textu postavu dělníka Míly.
 
 S konečnou platností proto rukopis odložil a začal se zvolna rozhlížet po nějakém jiném, méně kontroverzním tématu, jak mu to ostatně doporučovali v nakladatelství.
@@ -59,9 +57,7 @@ Jarušce vyhrkly horké slzy.
 
 „Jsem pořád celá naměkko,“ zavzlykala Jaruška šťastně.
 
-2
-
-  
+## 2
 
 Nakladatelský redaktor nebyl ovšem jediným Kvidovým cenzorem. Jednoho dne uslyšel Kvido pošťačku, jak v předsíni mlátí Něhu.
 
@@ -99,9 +95,7 @@ Líbá Tě Tvá máma.“
 
 „Já se zblázním!“ vykřikl Kvido. „Tady se vážně nedá psát!“
 
-3
-
-  
+## 3
 
 Kvido si schůzky s redaktorem domlouval tak, aby se jejich datum shodovalo se dny, kdy Jaruška jezdívala za Zitou; vypravovali se potom do Prahy společně.
 
@@ -125,9 +119,7 @@ Kvido si schůzky s redaktorem domlouval tak, aby se jejich datum shodovalo se 
 
 „Mýlil jsem se,“ vyprávěl později. „V péči toho redaktora jsem byl zcela bez rizika.“
 
-4
-
-  
+## 4
 
 Ve středu dvacátého října měl Kvido noční službu. Odpoledne se mezi mraky ukázalo slunce. Přemohl se a šel shrabat z trávníku před terasou napadané bukové listí, jak si to matka přála. Když se po chvíli vedle něj objevila Jaruščina nyní tak majestátní postava, usmál se, ale nedovolil jí více než přihrabovat na oheň těch několik lístečků, které mu vítr mezitím rozfoukal.
 

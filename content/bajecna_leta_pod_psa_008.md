@@ -5,8 +5,6 @@ contentType: prose
 
 1
 
-  
-
 Kvidova matka byla vždy přesvědčena, že Paco byl počat první červnovou sobotu roku devatenáct set sedmdesát, asi čtvrt hodiny před půlnocí. Tvrdí, že se tak stalo jen několik metrů od dohasínajícího táboráku ve vojenském spacím pytli, během Krylovy písně Salome, kterou své novopečené manželce (s níž se konečně z transformátoru přestěhoval na manželskou ubytovnu) nedaleko hrál a zpíval ing. Zvára. Tento předpoklad jí pak samozřejmě umožňoval zdánlivě racionálně vysvětlovat Pacovu pozdější trampskou vášeň. Kvidův otec ale od počátku označoval takové vývody za vulgární vlivologii a matčinu hypotézu s početím ostatně odmítal celou, argumentuje přitom poměrně dobrou znalostí jejích cyklů.
 
 „Musíš ale vzít v potaz,“ namítala matka, „že jsem se oné teplé noci – navíc u ohně – po deseti či kolika měsících na té ledové terase poprvé pořádně zahřála!“
@@ -135,9 +133,7 @@ Dědeček zuřivě potáhl z cigarety.
 
 „Nepomohlo,“ řekl Kvidův otec. „Potřebuješ psychiatra.“
 
-2
-
-  
+## 2
 
 V následujících měsících míval ovšem nejednou pocit, že by ho nutně potřeboval sám, neboť navzdory všem příslibům stále ještě neměl pro svou ženu a děti byt. V září mu měl být přidělen třípokojový byt v prvním patře Drábovky, ale nakonec ho dostala úplně jiná rodina. Kvidův otec byl na pokraji zhroucení. Loňská zima, kterou na terase prožili, byla zážitkem, jejž rozhodně nechtěl opakovat. Ve dnech, kdy mrzlo, ukazoval teploměr v místnosti málokdy víc než třináct stupňů, třebaže elektrická kamínka i teplomet běžely na plný výkon. Židle, stůl i postele na dotek nepříjemně studily a v noci, kdy býval mráz venku největší, se lidský dech okamžitě měnil v bělavou páru. Kvido a jeho matka prodělali několik nachlazení a on sám, ačkoli to nepřiznal, trpěl revmatickými bolestmi v kloubech.
 
@@ -219,9 +215,7 @@ Kvidova matka se krátce zasmála. Znovu si lehla a mlčky pozorovala popraskan
 
 „Tak mě s tím neobtěžujte!“ rozčílil se redaktor. „Většina těch kapitolek, co jste mi zatím donesl, vám tady nikde nevyjde, copak to vážně nechápete? Jestli opravdu nejste schopen napsat dva odstavce, aniž byste přitom pětkrát nenapálil komunisty, tak to řekněte a necháme toho. Vykašlete se na mě, pište si do šuplíku anebo si to spánembohem pošlete do Sixty-Eight Publishers. Tohle nemá cenu.“
 
-3
-
-  
+## 3
 
 Prosinec roku devatenáct set šedesát devět nebyl nijak zvlášť studený, ale Kvidova matka přesto všechny víkendy a pochopitelně i vánoční svátky trávila u rodičů v Praze. Kvidův otec, který se těchto návštěv vzhledem k okolnostem zprvu poněkud obával, musel pak v duchu obdivně konstatovat, že si jeho žena ani jedinkrát slůvkem nepostěžovala, překypovala naopak dobrou náladou, citovala hojně z divadelních her a on posléze uvěřil, že je jediný, kdo si všiml, jak často se zády tiskla k velkým kachlovým kamnům v dědečkově pracovně.
 
@@ -297,47 +291,47 @@ Sestra se nemýlila: Když se onoho odpoledne krátce před čtvrtou hodinou obj
 
 Už to tak bylo: Paco byl na světě a Kvido musel začít nosit brýle.
 
-4
+## 4
 
-O dva dny později v parčíku před pavilónem porodnice. Noc.
+_O dva dny později v parčíku před pavilónem porodnice. Noc._
 
-OTEC (_hází kamínky do okna_): Sssst! Sssst!
+> ****OTEC** (_hází kamínky do okna_): Sssst! Sssst!**
 
-Za oknem se objevují bělavé stíny nočních košil a tváře rozesmátých žen. Potom stíny mizejí, okno se otevírá a objevuje se Kvidova matka.
+_Za oknem se objevují bělavé stíny nočních košil a tváře rozesmátých žen. Potom stíny mizejí, okno se otevírá a objevuje se Kvidova matka._
 
-MATKA: Kdo jsi, ty muži zahalený tmou, že do mých tajů takhle vpadáš?
+> ****MATKA**: Kdo jsi, ty muži zahalený tmou, že do mých tajů takhle vpadáš?**
 
-OTEC: Neblbni!
+> ****OTEC**: Neblbni!**
 
-MATKA: Kdyby tě uviděli, zavraždí tě! Kde ses tu vzal? A proč jsi přišel? Mluv!
+> ****MATKA**: Kdyby tě uviděli, zavraždí tě! Kde ses tu vzal? A proč jsi přišel? Mluv!**
 
-OTEC (_pyšně_): Nepřišel. Přijel.
+> ****OTEC** (_pyšně_): Nepřišel. Přijel.**
 
-MATKA (_překvapeně_): Cože, v noci? Ty? A kde máš auto?
+> ****MA**T**KA** (_překvapeně_): Cože, v noci? Ty? A kde máš auto?**
 
-OTEC: Nechal jsem ho stát za městem. Víš přece, že nesnáším vjezdy na parkoviště.
+> ****OTEC**: Nechal jsem ho stát za městem. Víš přece, že nesnáším vjezdy na parkoviště.**
 
-MATKA: Tak ty jsi jel v noci? Vždycky jsi mi tvrdil, že jsi šeroslepý.
+> ****MATKA**: Tak ty jsi jel v noci? Vždycky jsi mi tvrdil, že jsi šeroslepý.**
 
-OTEC: Prostě jsem se rozhodl to risknout. Je jasná noc. (_Nad skupinkou jehličnanů se objeví velký zářící měsíc._)
+> ****OTEC**: Prostě jsem se rozhodl to risknout. Je jasná noc. (_Nad skupinkou jehličnanů se objeví velký zářící měsíc._)**
 
-MATKA (_polichoceně_): A to kvůli mně?
+> ****MATKA** (_polichoceně_): A to kvůli mně?**
 
-OTEC: Největší obavy jsem měl z lesní zvěře. Představ si, že ti z lesa na kapotu bez ohlášení skočí metráková srnka! Dovedeš si představit ten masakr? Hrůza! Celou cestu jsem pro jistotu troubil.
+> ****OTEC**: Největší obavy jsem měl z lesní zvěře. Představ si, že ti z lesa na kapotu bez ohlášení skočí metráková srnka! Dovedeš si představit ten masakr? Hrůza! Celou cestu jsem pro jistotu troubil.**
 
-MATKA (_překvapeně_): Ty jsi jel nějakým lesem? Kudy jsi to sem jel?
+> ****MATKA** (_překvapeně_): Ty jsi jel nějakým lesem? Kudy jsi to sem jel?**
 
-OTEC: Nejel. Ale nikde není psáno, že srnky nemohou být na poli. Nepředpokládám alespoň, že by je hajný v lese přivazoval.
+> ****OTEC**: Nejel. Ale nikde není psáno, že srnky nemohou být na poli. Nepředpokládám alespoň, že by je hajný v lese přivazoval.**
 
-MATKA: To je konečně pravda. Jsi můj hrdina. Myslím to vážně. Fakt.
+> ****MATKA**: To je konečně pravda. Jsi můj hrdina. Myslím to vážně. Fakt.**
 
-OTEC: Myslím, že v autoškole věnují jízdě v noci příliš málo hodin. Přitom má jízda v noci spoustu zcela specifických –
+> ****OTEC**: Myslím, že v autoškole věnují jízdě v noci příliš málo hodin. Přitom má jízda v noci spoustu zcela specifických –**
 
-MATKA (_skočí mu do řeči_): Miluju tě.
+> ****MATKA** (_skočí mu do řeči_): Miluju tě.**
 
-OTEC (_zaskočeně_): Já jsem –
+> ****OTEC** (_zaskočeně_): Já jsem –**
 
-MATKA: Miluješ mě? (_Zasněně recituje._)
+> ****MATKA**: Miluješ mě? (_Zasněně recituje._)**
 
 _Já vím, že řekneš ano,  
 a já ti uvěřím. Však přísahat  
@@ -346,87 +340,87 @@ milenců směje se prý Jupiter.
 Ach Romeo! Řekni pravdu.  
 Máš mě rád?_
 
-OTEC: Neblázni! Co dělá ta moč?
+> ****OTEC**: Neblázni! Co dělá ta moč?**
 
-MATKA (_rozpačitě_): Nekřič. (_Šeptá._) Teď ne. Můžou nás poslouchat.
+> ****MATKA** (_rozpačitě_): Nekřič. (_Šeptá._) Teď ne. Můžou nás poslouchat.**
 
-OTEC: Kdo?
+> ****OTEC**: Kdo?**
 
-MATKA (_ukazuje o patro výš_): Chlapi z urologie.
+> ****MATKA** (_ukazuje o patro výš_): Chlapi z urologie.**
 
-OTEC: No a? Snad se můžu zeptat, jestli už máš v pořádku moč?
+> ****OTEC**: No a? Snad se můžu zeptat, jestli už máš v pořádku moč?**
 
-MATKA (_zrudne_): Psst! (_Šeptá téměř neslyšně._) Je to v pořádku.
+> ****MATKA** (_zrudne_): Psst! (_Šeptá téměř neslyšně._) Je to v pořádku.**
 
-OTEC: Cože? Vůbec ti nerozumím!
+> ****OTEC**: Cože? Vůbec ti nerozumím!**
 
-MATKA (_zrudne ještě silněji, stále šeptá_): Moč je už v pořádku.
+> ****MATKA** (_zrudne ještě silněji, stále šeptá_): Moč je už v pořádku.**
 
-OTEC: Co? Vůbec ti nerozumím, herdek!
+> ****OTEC**: Co? Vůbec ti nerozumím, herdek!**
 
-MATKA (_vybuchne_): Tak se mě na tyhle věci před lidma neptej!
+> ****MATKA** (_vybuchne_): Tak se mě na tyhle věci před lidma neptej!**
 
-OTEC: A krev? Na krev se snad můžu zeptat.
+> ****OTEC**: A krev? Na krev se snad můžu zeptat.**
 
-MATKA: V pořádku.
+> ****MATKA**: V pořádku.**
 
-OTEC: Vážně?
+> ****OTEC**: Vážně?**
 
-MATKA: Vážně. Už je to v pořádku.
+> ****MATKA**: Vážně. Už je to v pořádku.**
 
-OTEC (_šeptá_): A ta moč?
+> ****OTEC** (_šeptá_): A ta moč?**
 
-MATKA (_vybuchne_): Tak sakra! Říkám ti, že –
+> ****MATKA** (_vybuchne_): Tak sakra! Říkám ti, že –**
 
-OTEC (_chlácholivě_): Dobrá, dobrá, klid… Co dělá Paco?
+> ****OTEC** (_chlácholivě_): Dobrá, dobrá, klid… Co dělá Paco?**
 
-MATKA: Teď? Spí.
+> ****MATKA**: Teď? Spí.**
 
-OTEC: A Kvido?
+> ****OTEC**: A Kvido?**
 
-MATKA: Zřejmě taky spí. (_Ironicky._) Překvapuje tě to?
+> ****MATKA**: Zřejmě taky spí. (_Ironicky._) Překvapuje tě to?**
 
-OTEC: Čistil si večer zuby?
+> ****OTEC**: Čistil si večer zuby?**
 
-MATKA _(ironicky_): Bohužel nevím, ale zeptám se zítra primáře.
+> ****MATKA** _(ironicky_): Bohužel nevím, ale zeptám se zítra primáře.**
 
-OTEC: Doufejme, že si je čistil. Znáš ho!
+> ****OTEC**: Doufejme, že si je čistil. Znáš ho!**
 
-MATKA (_stále ironicky_): Doufejme.
+> ****MATKA** (_stále ironicky_): Doufejme.**
 
-Oba se odmlčí.
+_Oba se odmlčí._
 
-MATKA (_záměrně velmi hlasitě_): Mám si tedy myslet, že jsi jel v noci třicet pět kilometrů skrze stáda srnek jenom proto, aby ses zeptal, jak tvůj starší syn pečuje o svůj chrup? Školní zubař by ti v tom případě měl koupit bonboniéru.
+> ****MATKA** (_záměrně velmi hlasitě_): Mám si tedy myslet, že jsi jel v noci třicet pět kilometrů skrze stáda srnek jenom proto, aby ses zeptal, jak tvůj starší syn pečuje o svůj chrup? Školní zubař by ti v tom případě měl koupit bonboniéru.**
 
-Uvnitř pokoje se ozve salva smíchu.
+_Uvnitř pokoje se ozve salva smíchu._
 
-OTEC (_s úsměvem_): Proto ne. (_Zvážní._) Přijel jsem, abych ti něco důležitého řekl.
+> ****OTEC** (_s úsměvem_): Proto ne. (_Zvážní._) Přijel jsem, abych ti něco důležitého řekl.**
 
-MATKA: Co se stalo? (_Polekaně._) Rozbil se teplomet?!
+> ****MATKA**: Co se stalo? (_Polekaně._) Rozbil se teplomet?!**
 
-OTEC: Ale ne. Nechci to za každou cenu dramatizovat, ale radši si na to sedni.
+> ****OTEC**: Ale ne. Nechci to za každou cenu dramatizovat, ale radši si na to sedni.**
 
-MATKA (_vyděšeně_): Ježíšikriste! (_Sedá si a ztrácí otce z očí._) Snad jsi nevstoupil do strany?! (_Polohlasem k ženám na pokoji._) Ten chlap mi snad zastaví laktaci! (_Hlasitě._) Jsi tam?
+> ****MATKA** (_vyděšeně_): Ježíšikriste! (_Sedá si a ztrácí otce z očí._) Snad jsi nevstoupil do strany?! (_Polohlasem k ženám na pokoji._) Ten chlap mi snad zastaví laktaci! (_Hlasitě._) Jsi tam?**
 
-OTEC (_hlasitě_): Jo.
+> ****OTEC** (_hlasitě_): Jo.**
 
-MATKA (_prudce stoupá_): Ty jsi vstoupil do strany?!
+> ****MATKA** (_prudce stoupá_): Ty jsi vstoupil do strany?!**
 
-OTEC: Ne, blázníš? Co máš pořád se stranou?
+> ****OTEC**: Ne, blázníš? Co máš pořád se stranou?**
 
-MATKA: Tak co je, proboha??
+> ****MATKA**: Tak co je, proboha??**
 
-OTEC (_slavnostně_): Přihlásil jsem se na VUML.
+> ****OTEC** (_slavnostně_): Přihlásil jsem se na VUML.**
 
-MATKA: Zbláznil ses? Proč na VUML?
+> ****MATKA**: Zbláznil ses? Proč na VUML?**
 
-OTEC (_s úsměvem vytahuje svazek klíčů_): Aby nám dali byt.
+> ****OTEC** (_s úsměvem vytahuje svazek klíčů_): Aby nám dali byt.**
 
-MATKA (_ohromeně_): Byt??
+> ****MATKA** (_ohromeně_): Byt??**
 
-ŽENY (_stejně ohromeně_): Byt!!
+> ****ŽENY** (_stejně ohromeně_): Byt!!**
 
-Opona.
+_Opona._
 
   
 

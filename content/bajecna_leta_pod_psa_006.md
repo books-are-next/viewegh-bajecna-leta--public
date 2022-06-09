@@ -5,16 +5,12 @@ contentType: prose
 
 1
 
-  
-
 Kvido se měl podle Zitiných předpokladů narodit v prvním srpnovém týdnu roku devatenáct set šedesát dva v porodnici v Podolí.
 
 Jeho matka měla v té době za sebou dvanáct divadelních sezón, avšak velkou většinu svých převážně dětských rolí v Jiráskových, Tylových, Kohoutových a Makarenkových hrách považovala za mírně kompromitující hříchy mládí. Studovala ostatně čtvrtý ročník práv a svou účast v komparsu Divadla čsl. armády na Vinohradech brala už jen jako nezávaznou hru (což jí ovšem na druhé straně nebránilo, aby víceméně náhodnou okolnost, že termín porodu spadá do divadelních prázdnin, neprezentovala před úspěšnějšími kolegyněmi coby věc naprosto samozřejmé profesionální kázně). Jakkoli to zní paradoxně, pod slupkou ochotnického zanícení byla Kvidova matka – někdejší hvězda školních představení – ve skutečnosti velmi stydlivá a kromě Zity ji také nesměl nikdo jiný prohlédnout. Paní Zita, primářka podolské porodnice a dlouholetá přítelkyně babičky Líby, která znala Kvidovu matku od dětství, se trpělivě snažila jejímu rozmaru vyhovět a přislíbila jí, že přeorganizuje služby lékařů tak, aby v onen kritický den neasistoval na sále ani jeden muž.
 
 _„U Zity v Podolí  
 žádný porod nebolí,“_
-
-  
 
 veršovala u oběda babička Líba, a dokonce i otec Kvidova otce, dědeček Josef, ač apriorně skeptický vůči všemu komunistickému, zdravotnictví přirozeně nevyjímaje, byl ochoten připustit, že pravděpodobnost rozdrcení Kvidovy hlavičky porodnickými kleštěmi je tentokrát přece jen o něco nižší než jindy.
 
@@ -60,9 +56,7 @@ Za pár minut zavřískalo sálem novorozeně mužského pohlaví.
 
 „Jmenuje se Kvido,“ zašeptala Kvidova matka, ale nikdo ji neslyšel. Z nábřeží se ozvala siréna přijíždějící ambulance.
 
-2
-
-  
+## 2
 
 „Aby bylo jasno,“ řekl po letech Kvido redaktorovi, „rozhodně nehodlám malovat celej ten takzvanej strom života a třást s jeho přebujelejma větvema tak dlouho, dokud z něj nespadne nějakej mrtvej stavební rada nebo správce Thunova panství, aby mi řekli, kdo jsem, odkud přicházím a že Masaryk střílel do dělníků!“
 
@@ -114,9 +108,7 @@ Přestože se ani dědeček, ani babička nezbavili určité minimální ostraž
 
 „Přijď zas,“ řekl mu na rozloučenou téměř úsečně, ale Kvidova matka v té chvíli věděla, že Kvidův otec obstál.
 
-3
-
-  
+## 3
 
 „Byl jsem tedy nedonošené dítě,“ vyprávěl Kvido. „Obě babičky byly zděšené. V roce jsem vážil čtrnáct kilogramů, ale ony se mě stále snažily udržet při životě. Ještě v mých pěti letech bojovaly s pomocí banánů v čokoládě o mou holou existenci.“
 
@@ -171,8 +163,6 @@ Půl mého života mi sklála druhou půl
 a nutí mě se mstít, po oné kruté ráně,  
 za tu, co nemám už, na té, co zůstává mně,“_
 
-  
-
 recitovala například Kvidovi často. Nemyslela si přirozeně, že by Corneillovým veršům nějak příliš rozuměl, ale doufala, že se jejich prostřednictvím stane Kvido někým alespoň trochu jiným než všechny ty děti odkojené Ferdou Mravencem a Špalíčkem českých pohádek.
 
 „Nakonec se jí to skutečně povedlo,“ vyprávěl po letech Kvido. „Já a můj psychiatr jsme jí to nikdy neodpustili.“
@@ -196,8 +186,6 @@ Pavel Kohout, který sledoval zkoušku po Kvidově levici, na chlapce podezírav
 _„Ó matko molů, matko lidí, matko všeho,  
 dej molům sílu k návratu do světa přetěžkého,“_
 
-  
-
 přečetl plynně.
 
 „Ježišmarjá!“ vykřikl Pavel Kohout, „to dítě snad čte!“
@@ -213,53 +201,49 @@ Prstem ukázal na příslušný řádek v textu.
 _„…že jsou tak útlí a že tolik je jich zapotřebí  
 ve světě, kde stvůry mamutí se šklebí,“_
 
-  
-
 dočetl Kvido.
 
 „Bravo!“ zvolal uznale Vladimír Šmeral. Někteří herci zatleskali. Nebylo pochyb: Kvido uměl číst.
 
-4
+## 4
 
-Pokoj Kvidových rodičů. Večer. Kvido spí.
+_Pokoj Kvidových rodičů. Večer. Kvido spí._
 
-OTEC (_odkládá Pravidla silničního provozu_): Hlavně aby to v tom lednu neklouzalo. To by byla moje smrt.
+> ****OTEC** (_odkládá Pravidla silničního provozu_): Hlavně aby to v tom lednu neklouzalo. To by byla moje smrt.**
 
-MATKA (_žehlí_): Stejně nechápu, jak jsi mohl udělat trojité hodiny během popojíždění u benzínové pumpy.
+> ****MATKA** (_žehlí_): Stejně nechápu, jak jsi mohl udělat trojité hodiny během popojíždění u benzínové pumpy.**
 
-OTEC: Šíleně mě znervózněl ten instruktor. Je proti mně zaujatý. Ještě na dvoře autoškoly na mě křičel, že mi tu zkoušku nedá – zřejmě kvůli té tašce s masem, co jsem mu ji měl hodit do kufru…
+> ****OTEC**: Šíleně mě znervózněl ten instruktor. Je proti mně zaujatý. Ještě na dvoře autoškoly na mě křičel, že mi tu zkoušku nedá – zřejmě kvůli té tašce s masem, co jsem mu ji měl hodit do kufru…**
 
-MATKA (_zarazí se_): A kam jsi ji hodil?
+> ****MATKA** (_zarazí se_): A kam jsi ji hodil?**
 
-OTEC: Do motoru. Měl jsem příšernou trému.
+> ****OTEC**: Do motoru. Měl jsem příšernou trému.**
 
-MATKA (_se smíchem_): Kdy se na to přišlo?
+> ****MATKA** (_se smíchem_): Kdy se na to přišlo?**
 
-OTEC: Na Černokostelecké. Policajt, co seděl vzadu, tvrdil, že cítí připálené ražniči.
+> ****OTEC**: Na Černokostelecké. Policajt, co seděl vzadu, tvrdil, že cítí připálené ražniči.**
 
-MATKA: To jsi mi neřekl!
+> ****MATKA**: To jsi mi neřekl!**
 
-OTEC: Zapomněl jsem. Víš, nemohu prostě snést představu, že při míjení s protijedoucím vozem mě dělí od jisté smrti jediný malý pohyb ruky v zápěstí. To je celý ten problém. Několik centimetrů – a konec. ARO – v lepším případě. Představ si, že tam nepouštějí návštěvy.
+> ****OTEC**: Zapomněl jsem. Víš, nemohu prostě snést představu, že při míjení s protijedoucím vozem mě dělí od jisté smrti jediný malý pohyb ruky v zápěstí. To je celý ten problém. Několik centimetrů – a konec. ARO – v lepším případě. Představ si, že tam nepouštějí návštěvy.**
 
-MATKA: Nesmíš si to tak brát. Musíš si prostě víc věřit.
+> ****MATKA**: Nesmíš si to tak brát. Musíš si prostě víc věřit.**
 
-OTEC: Věřím si v jednosměrce. Miluju jednosměrky. Můj styl jízdy se tam pokaždé úplně promění!
+> ****OTEC**: Věřím si v jednosměrce. Miluju jednosměrky. Můj styl jízdy se tam pokaždé úplně promění!**
 
-MATKA: Jako u té pumpy! Nebo tenkrát na té dálnici!
+> ****MATKA**: Jako u té pumpy! Nebo tenkrát na té dálnici!**
 
-OTEC: Dálnice je úplně něco jiného. V životě už tam nevjedu! Nejsem kosmonaut!
+> ****OTEC**: Dálnice je úplně něco jiného. V životě už tam nevjedu! Nejsem kosmonaut!**
 
-MATKA: Tak proč si ty papíry vůbec děláš?
+> ****MATKA**: Tak proč si ty papíry vůbec děláš?**
 
-OTEC: Protože jsi to chtěla.
+> ****OTEC**: Protože jsi to chtěla.**
 
   
 
 „Moderní člověk,“ řekl redaktorovi Kvido, „se neobejde bez auta. To maso mi mimochodem něco připomíná.“
 
-5
-
-  
+## 5
 
 „Babička,“ říkával občas u oběda dědeček Jiří, „je bezesporu zkušená a skvělá kuchařka. – Škoda jen, že v devíti případech z deseti propůjčuje svůj nepochybný talent bezmasým jídlům.“
 
@@ -287,8 +271,6 @@ _Na krásné pláži poblíž Jalty
 pořádáme malou party:  
 Koupeme se, povídáme,  
 háčkujeme, vzpomínáme!_
-
-  
 
 stálo na lístku a následovalo obvyklé Všechny líbá vaše Líba!
 
@@ -332,9 +314,7 @@ Kvidův otec si na okamžik představil svého syna, jak si v místech, kde žl
 
 „Víš, kdy si akorát nečet?“ dodala babička zamyšleně. „Když jsme stáli u psů.“
 
-6
-
-  
+## 6
 
 Večer před Štědrým dnem sedmašedesátého roku připravovala babička Líba spolu s Kvidovou matkou bramborový salát. Kvidův otec seděl u kuchyňského stolu a polohlasem si předčítal jakýsi anglický text z poslední strany Plamene. „We would like to call our readers’ attention to the following contributions in the December edition of Plamen –,“ četl otec.
 
@@ -422,9 +402,7 @@ V zámku zarachotil klíč.
 
 „Kriste Ježíši!“ zvolal Kvido. „Budeme už teda zdobit?!“
 
-7
-
-  
+## 7
 
 Když Kvidův dědeček Josef jedenadvacátého srpna roku devatenáct set šedesát osm v půl páté ráno v kuchyni vstal, aby se vypravil do práce, uslyšel podivné neznámé hřmění, které se do bytu snášelo oknem odkudsi z temné oblohy. Tiše postavil konvici na plynový sporák, ale jeho ohledy byly zbytečné, neboť babička díky zmíněnému hluku rovněž už hodnou chvíli nemohla spát.
 
