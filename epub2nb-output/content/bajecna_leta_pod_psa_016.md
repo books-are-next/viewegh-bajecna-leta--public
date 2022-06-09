@@ -213,7 +213,11 @@ Tento rituál se časem natolik vžil, že jej Kvidova matka (a později i Jar
 
 Jednoho dne objevil Kvido v koutě střechy starou roli černé asfaltové lepenky – a dostal nápad, jehož realizace ho stála asi dvacet minut času a téměř neodstranitelně špinavé nehty: Zakryl lepenkou posledních pět písmen, takže s úderem desáté hodiny spatřila jeho matka na nočním nebi tuto odvážnou otázku bez otazníku:
 
+  
+
 SLÁVA KOMU
+
+  
 
 „Zbláznil se?“ vyjekla Kvidova matka zděšeně a okamžitě se ohlédla, zda v kuchyni není přítomen Kvidův otec, pro něhož by taková podívaná znamenala bezpochyby okamžitou smrt. Když se její pohled znovu vrátil k obloze, po otázce už nebylo ani vidu.
 
