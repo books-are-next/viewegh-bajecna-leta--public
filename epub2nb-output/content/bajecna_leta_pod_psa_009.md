@@ -3,20 +3,26 @@ title: IV
 contentType: prose
 ---
 
-1
+<section>
+
+## _1_
 
 Vilka pod Skřivánkem, kam se po matčině návratu z porodnice rodina definitivně nastěhovala, připomínala babičce Líbě jeden malý roztomilý dívčí penzión v Lausanne, kde kdysi dávno několikrát pobývala. Táž podezdívka z červeného pískovce, tytéž okrové okenní rámy, velmi podobná veranda, obrostlá psím vínem, i ty prý téměř identicky rozmístěné smrky a túje na zahradě v ní vyvolávaly velmi sentimentální vzpomínky.
 
 Na jaře toho roku odjela se dvěma přítelkyněmi na zájezd do Německé demokratické republiky. Necelý týden zde žily uprostřed nádherné, probouzející se přírody Harckého lesa – avšak tím více skličoval babičku blížící se návrat do špinavého, zakouřeného města. Poslední dobou trpěla totiž některými dýchacími obtížemi, které bez výjimky přikládala na vrub ovzduší v Praze, a podobně jako obě její přítelkyně nevylučovala zcela možnost, že má rakovinu plic.
 
-  
+</section>
+
+<section>
 
 _V restauraci v Harckém lese  
 vrchní kávu, dorty nese.  
 Když si každý dal,  
 volá: Noch einmal!_
 
-  
+</section>
+
+<section>
 
 veršovala sice na černobílé pohlednici tradičně, ale pak následoval nezvyklý a podivný prozaický dodatek: Dýcháme kyslík do zásoby – snad nám v té Praze vydrží! napsala.
 
@@ -60,7 +66,9 @@ Za mrazivých zimních nocí pak nezřídka vstával a šel si na elektroměr n
 
 „Vypadal jako šetrný duch Hamletova otce,“ vyjádřila to později Kvidova matka poněkud ztřeštěným příměrem.
 
-  
+</section>
+
+<section>
 
 Babiččiny náhlé obavy z rakoviny kupodivu přetrvávaly i na zdravém sázavském povětří. Zpočátku babička pouze odmítala vařit v hliníkových hrncích, jíst karcinogenní kuřata, která navzdory jejím varováním stále kupoval Kvidův otec, a mýt nádobí saponátem, v důsledku čehož byly všechny talíře a hrnky brzy tak mastné, až všem vyklouzávaly z rukou; postupně se ale okruh babičkou vyhlášených tabu stále více rozšiřoval.
 
@@ -130,7 +138,9 @@ Babička Líba si skleničku obalila papírovým ubrouskem.
 
 „Na vaše,“ pozdvihl svou číši Kvidův otec. „Na vaše.“
 
-  
+</section>
+
+<section>
 
 „Ekologie – a originálně,“ řekl redaktor. „To beru. Pochopitelně bez toho Kohouta. No vidíte, že to jde, když chcete…“
 
@@ -178,7 +188,9 @@ Jaruška trochu bázlivě přikývla a sklopila oči.
 
 „Ačkoli angažmá dvou prvňáčků bylo v historii kroužku precedensem, Šperková nezaváhala,“ vykládal Kvido. „Jaruška a já jsme byli ještě týž den přijati.“
 
-  
+</section>
+
+<section>
 
 Když se Kvido ještě na terase Drábovky s jistými rozpaky poprvé nasoukal do modré košile s odznakem pionýrských Jiskřiček, jeho matka se ani nepousmála, naopak, tvářila se poměrně vážně.
 
@@ -212,7 +224,9 @@ Jeho žena mu věnovala krátký významný pohled.
 
 „Jaruška,“ řekl Kvido a začervenal se.
 
-  
+</section>
+
+<section>
 
 Pro účastníky schůzí – a tedy nejen pro komunisty – byla předúčast zpívajících a recitujících pionýrů tak samozřejmá jako limonáda na stolech, avšak malý Kvido, který v Neumannových či Skálových revolučních verších nalézal stejně málo smyslu jako v holých větách Slabikáře – a četl je proto se stejně zaníceným hledačstvím, představoval něco, co dosud neznali.
 
@@ -232,7 +246,9 @@ Ať byly některé tyto poznámky jakkoli jízlivé, jedna věc byla nepochybná
 
 „A zapamatovali si mě ze _schůzí_,“ vysvětloval Pacovi Kvido. „Čili: v příznivém kontextu. Příznivém pro otce! Oba se tvářili šíleně shovívavě, jak se správní rodičové tváří, když si jejich dítě vybere nevkusnou hračku, která se jim osobně sice ani trochu nelíbí, ale když už si ji samo vybralo, nechtějí mu ji odpírat. Jenže otcovi se to hodilo do krámu – a tak mi nebránil, to je totiž to správné slovo, prostě mi pouze _nebránili_. Já za ně, bráško, dělal tu špinavou práci: Jednou ‚A hrdý buď‘ pro sklárenský komunisty, dvakrát ‚Zpěv míru‘ na uličním výboru – a tatínek mohl letět do Londýna!“
 
-  
+</section>
+
+<section>
 
 „Přeháníte,“ řekl Kvidovi redaktor. „Jako vždy přeháníte. Má-li ještě vůbec smysl se o tom všem bavit,“ dodal.
 
@@ -268,7 +284,9 @@ Byl Šperkovi sice skutečně vděčný, ale na druhé straně mu bylo nepříje
 
 „Říkám ti, že to není pes!“ řekl Šperk jakoby už trochu rozmrzele. „Je to přece štěně. Zítra se u mě stav!“
 
-  
+</section>
+
+<section>
 
 „Tak ještě jednou,“ řekla ten večer Kvidova matka svému muži, „domníváš se, že já, která při pohledu na neuvázaného psa jakékoli rasy dostávám předčasně menses, si toužím psa pořídit domů, ausgerechnet zrovna vlčáka?“
 
@@ -318,7 +336,9 @@ Redaktor vítězně přešel k otevřenému oknu, zabubnoval prsty na parapet a
 
 „No jo,“ řekl Kvido. „Tak ať se to zhroutí.“
 
-  
+</section>
+
+<section>
 
 Když Kvidův otec zaplatil Šperkovi tři tisíce korun, dostal za ně půlroční fenku jménem Tera. To jméno se mu od začátku nelíbilo. Znělo tak nějak ostře a studeně, a především mu připomínalo film Torra! Torra! Torra!, známé válečné drama. Celou cestu od Šperka nazpět domů si říkal, že by měl fence vymyslet nějaké úplně jiné, měkčí a mazlivější jméno, které by bylo výrazem její – jak pevně doufal – mírnosti, spolehlivosti a přítulnosti a které by na jeho ženu a na Kvida okamžitě zapůsobilo jednoznačně uklidňujícím dojmem. Uvědomoval si sice, že dodatečné přejmenování psa, který už si na své původní jméno několik měsíců zvykal, je patrně v kynologii značný prohřešek, ale na druhé straně se jednak skutečně obával rodinné reakce na jméno Tera – a jednak ho také trochu hřálo pomyšlení, že nemohl-li rozhodnout o jméně svých synů, rozhodne alespoň o tom, jak se bude říkat psovi. Chvíli byl dokonce v pokušení dát fence ženskou variantu svého jména a volat na ni tedy Josefíno, ale pak onen marnivý nápad naštěstí sám zavrhl. Nicméně myšlenka na přejmenování ho neopustila.
 
@@ -330,7 +350,9 @@ Jak přemýšlel, cesta mu rychle uběhla, a než se nadál, stanul i se psem,
 
 „Už ji nesu!“ vykřikl vesele. „Jmenuje se Něha!“
 
-  
+</section>
+
+<section>
 
 Vůbec nejlépe z celé rodiny přijal Něhu kupodivu Kvido: Třebaže z jeho pohybů nezmizela jistá opatrnost, choval ji, hladil, hrál si s ní a vůbec kolem ní všemožně poskakoval. Babička Líba ji přivítala pouze jako dalšího strávníka, který bude žádat maso – a Paco byl ještě příliš malý, než aby mu psí štěně dokázalo udělat opravdovou radost. Kvidova matka se rozhodla štěně ignorovat, takže hrozilo vážné nebezpečí, že ho během rychlého hněvivého přecházení z místnosti do místnosti při nejbližší příležitosti zašlápne. Když to trvalo více než dvě hodiny, Kvidův otec to nevydržel.
 
@@ -362,7 +384,9 @@ Kvidova matka vrátila ruku zpět.
 
 „Jako hladit mrtvou krysu,“ řekla.
 
-  
+</section>
+
+<section>
 
 „Dokud byla Něha štěně, velké potíže s ní nebyly. Okousala přirozeně nějakou tu nohu od stolu, pár knih a močila na koberce, ale _skutečné_ problémy s ní nebyly,“ vyprávěl Kvido. Jak ale vyrůstala, problémů přibývalo. Kvidův otec, který se ji pokoušel cvičit podle knihy klasika německé kynologie Hegendorfa, znepokojeně zjišťoval, že ačkoli by jako fena měla být „klidnější, ochotnější a ovladatelnější než pes“, je tomu takřka úplně naopak: Něha byla divoká, tvrdohlavá a velmi neposlušná. V jiné příručce se později dočetl, že jde patrně o „tvrdého psa s převládajícím vůdcovským pudem, který ve smečce pes – člověk přenechává člověku vůdcovství jen velmi neochotně“.
 
@@ -482,7 +506,9 @@ Na zlomeček vteřiny pocítil Kvidův otec pokušení svého přítele uhodit, 
 
 Všichni tři se tomu zasmáli.
 
-  
+</section>
+
+<section>
 
 „A takhle to vždycky bylo,“ vyprávěl Kvido. „Otcova nechuť ke konfliktům, jeho fyzická neschopnost je snášet, většinou zvítězily. Představa, že by měl čtyřicet hodin týdně trávit v jedné místnosti s někým, s kým se hádá, byla pro otce natolik nesnesitelná, že se se Zvárou nepohádal snad nikdy. Jakmile zjistil, že jejich názorová rozepře začíná směřovat k opravdové hádce, ustoupil. Málokterá pravda mu stála za to, aby si kvůli ní ničil nervy.“
 
@@ -566,7 +592,9 @@ Přišly Vánoce. Dědeček Jiří musel na jakousi operaci, a nemohl tudíž p
 
 „Dělá, že neví!“ řekl dědeček. „A co dělá Paco?“
 
-  
+</section>
+
+<section>
 
 Štědrý den probíhal od rána v poklidné atmosféře; nezkazila ji ani Něha, která ještě dopoledne sežrala polovinu krocana chystaného na večeři, ani Kvidova matka, která ze zbytku udělala řízky a osmažila je na karcinogenní teflonové pánvi, a konečně ani babička Líba, která pak řízky s odporem spláchla do záchodu; dědečkova nezvyklá nepřítomnost totiž všechny činila mimořádně tolerantními. Částečně ji pokazil až Kvido.
 
@@ -686,7 +714,9 @@ Kvidův otec nevěnoval její poznámce pozornost.
 
 Kvido horlivě přikývl. „Jasně,“ řekl.
 
-  
+</section>
+
+<section>
 
 „Odpoledne na Boží hod jsme šli poprvé trénovat,“ vyprávěl Kvido. „Problém byl, že otec neměl – jako ostatně snad nikdy v životě, nepočítám-li období školní docházky a vojenské služby – ani tepláky, ani jakoukoli sportovní obuv, takže si musel vzít svetr, manšestrové kalhoty a starší polobotky, jejichž podpatky se mu pak ustavičně bořily do měkkého trávníku.“
 
@@ -712,7 +742,9 @@ Během tohoto i všech dalších tréninků si Kvidův otec znovu ověřoval zn
 
 „Člověku nesluší jeho pohyby a priori,“ tvrdil Kvido. „Aby mu ten či onen pohyb skutečně slušel, musí ho nejdříve důkladně prožít, vstřebat. Mému otci, který trávil desetitisíce hodin u svého pracovního stolu, kupříkladu zcela mimořádně slušelo, když se levačkou natáhl do knihovny pro jakýsi náhle potřebný titul, zatímco jeho pravačka s imponující samostatností pokračovala v psaní poznámek nebo ve výpočtu na kalkulačce. Kromě toho dělal – jako každý z nás – samozřejmě milión jiných, více či méně slušivých, všedních pohybů – a pak taky i pohyby vyloženě trapné: například když uklouzl na mokrých schodech, když musel na odborářské rekreaci v Krkonoších napodobit ledního medvěda – a když hrál v Sázavě fotbal.“
 
-  
+</section>
+
+<section>
 
 Navzdory tomu, že jeho ojedinělé pokroky spočívaly pouze v ne­úplném odstraňování nejkřiklavějších nedostatků, chodil Kvidův otec trénovat několikrát týdně, celou zimu. Zakoupil si střízlivou teplákovou soupravu černé barvy a žlutočerné plátěné kopačky, což mu konečně umožnilo vyběhnout ze skrytu lískových keřů na malý kondiční okruh nejbližším okolím, aniž by se přitom někdo pozastavoval nad jeho úborem.
 
@@ -730,7 +762,9 @@ Následující dvě hodiny jim oprávněnost takového postoje bohužel jen potv
 
 „Co děláš!“ smál se Šperk. „Byl jsi vidět!“
 
-  
+</section>
+
+<section>
 
 Dvacátého května krátce po poledni dojídal Kvidův otec v závodní jídelně hovězí s rýží. Už se chystal odejít, když si k jeho stolu přinesl hliníkové plató také Šperk.
 
@@ -765,3 +799,5 @@ Kvidova otce píchlo pod prsní kostí.
 „Ano?“ řekl naoko pobaveně.
 
 „Asi pojedeš ty,“ oznámil mu vesele Šperk. „Mládí vpřed, ne? Musel jsem se ovšem za tebe zaručit.“
+
+</section>

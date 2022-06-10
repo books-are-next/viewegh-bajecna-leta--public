@@ -3,7 +3,9 @@ title: V
 contentType: prose
 ---
 
-1
+<section>
+
+## _1_
 
 Kvidův otec měl letět do Anglie počátkem července. Babička Líba, která díky důslednému střídání žemlovky, tykvových placek, kadeřávkových karbanátků, mrkvových smaženek, škubánků, fazolek s rýží a zapečeného černého kořene v týdenním rodinném jídelníčku konečně našetřila na vytoužený okružní zájezd po Itálii, odlétala již koncem května.
 
@@ -13,7 +15,9 @@ Skutečnost, že odjíždí dřív než Kvidův otec, byla pro babičku zdrojem 
 
 Dvacátého května odjela babička do Prahy a dědeček Jiří ji doprovodil na letiště. Za devět dní přišla do Sázavy černobílá pohlednice s interiérem kostela S. MARIA GLORIOSA DEI FRARI v Benátkách.
 
-  
+</section>
+
+<section>
 
 _Vozíme se autokarem,  
 samé ženy, skoro harém,  
@@ -22,7 +26,9 @@ pod azurovou oblohou.
 Když únavou klopýtáme,  
 gondolu si přivoláme!_
 
-  
+</section>
+
+<section>
 
 stálo na ní a také tentokrát následoval prozaický dovětek:
 
@@ -52,7 +58,9 @@ A je to za náma, řekla si v duchu s úlevou jeho matka. Ale v tom se pro z
 
 „První a nikoli poslední,“ řekl redaktor významně. „Tak čtěte.“
 
-  
+</section>
+
+<section>
 
 Ano, babiččiny celkem tradiční potíže s návratem do všedních dnů přerostly tentokrát v cosi vážnějšího. Začala – jako dítě, které si svoje bonbóny už snědlo, a nyní žárlivě sleduje jiné, které je ještě má – Kvidovu otci jeho cestu závidět.
 
@@ -158,11 +166,15 @@ Jeho ponížená servilnost vůči číšníkům ve vlasti, dík které dokázal
 
 Avšak ono uspokojení, které cítil, když mu hotelový nosič odnášel zavazadla nebo když poprvé stanul před budovou Parlamentu, to nebyla marnivost: Byla to radost pacienta z úspěšně se hojící rány.
 
-  
+</section>
+
+<section>
 
 „Jako babička šlapala na východ, když se chtěla cítit mladší, musel náš otec – aby se cítil jako člověk – jezdit na Západ,“ řekl redaktorovi Kvido. „Měli to pěkně rozdělený.“
 
-  
+</section>
+
+<section>
 
 Bylo domluveno, že vzhledem k večernímu času příletu počká rodina na otce raději doma v Sázavě, a tak na ruzyňském letišti čekal na přistání letadla British Airways jenom řidič podnikového auta.
 
@@ -314,7 +326,9 @@ Kvidova matka se nešťastně zamračila. Litovala už, že podlehla chvilkovém
 
 „Do prdele!“ zařval Kvidův otec. „Ještě se snad kvůli nim budeme hádat!“
 
-  
+</section>
+
+<section>
 
 Dlouholetý vedoucí obchodní skupiny odešel na konci roku ze zdravotních důvodů do důchodu; na jeho místo byl k prvnímu lednu jmenován ing. Zvára a Kvidův otec se stal jeho zástupcem.
 
@@ -344,7 +358,9 @@ Když ho za necelé dvě hodiny Kvidův otec probudil, stáli na počátku jaké
 
 „A kde bysme měli bejt?“ řekl ospale Zvára a zamžoural napravo od sebe, kde se v záři luceren pobřežní autostrády houpalo na moři několik desítek člunů a plachetnic. „Kam jsi to zajel? Smí se tu, ty vole, vůbec stát?“
 
-  
+</section>
+
+<section>
 
 „Víš, kolik jsem za ten týden najezdil? Jedenáct set!“ chlubil se Kvidovi otec. „To už jde, ne?“
 
@@ -354,7 +370,9 @@ Když ho za necelé dvě hodiny Kvidův otec probudil, stáli na počátku jaké
 
 „Chápete,“ řekl později redaktorovi Kvido, „ujišťoval se tak, že ze světa, pokáleného od andulek, _opravdu_ přesáhl do světa, kde to už jde. Kde pro člověka posílají vůz a kde může v letadle jíst bifteky. Ujišťoval se zkrátka o neodvolatelnosti své transcendence.“
 
-  
+</section>
+
+<section>
 
 Nyní bylo prakticky vyloučeno, že by se některá z Kvidových či matčiných ironických poznámek v Dlouhodobých úkolech mohla Kvidova otce sebeméně dotknout. S úsměvem je velkoryse přecházel.
 
@@ -524,7 +542,9 @@ Matka mu odhrnula vlasy z čela.
 
 Žádnému z nich to ale nevyznělo příliš přesvědčivě.
 
-  
+</section>
+
+<section>
 
 „Co je v domě, není pro mě…,“ varoval Kvidova otce s nepřehlédnutelnou stopou závisti v hlase ing. Zvára. „To je, ty vole, staletá moudrost.“
 
@@ -596,14 +616,18 @@ Než však začal doopravdy pádlovat, ukázal ještě své kolegyni techniku t�
 
 Počasí se opravdu vyvedlo: Foukal svěží větřík, rákosí tiše šelestilo a slunce pálilo ze všech svých posledních sil. Když překonali první říční ohyb, Mirjana, chtějíc si patrně dopřát to, co si v Pule mohou dovolit jen zahraniční turistky, si přetáhla tílko přes hlavu. Položila pádlo, opatrně se otočila a usedla na příď, čelem k slunci i oběma členům posádky. Zvrátila hlavu proti slunci, přimhouřila oči a začala si broukat jakýsi popěvek, jehož slova si Kvido – vzhledem k okolnostem – navždy zapamatoval.
 
-  
+</section>
+
+<section>
 
 _„Procvale su rože i vijole,  
 procvala je trava i murava,  
 procvala je lika i zelenika,  
 procvale su višnje i čerišnje…,“_
 
-  
+</section>
+
+<section>
 
 zpívala tiše Mirjana.
 
@@ -637,7 +661,9 @@ Otec na něho cosi křičel, ale on mu nerozuměl.
 
 „Procvale su rože i vijole,“ opakoval si. „Procvala je trava i murava…“
 
-  
+</section>
+
+<section>
 
 Okamžitě potlačit sklon k polygamii (otec), objevilo se nazítří v příslušném zeleném políčku kalendáře IBM.
 
@@ -671,7 +697,9 @@ Kvida zatím trápilo jen to, že by vedle Jarušky, která chtěla naopak pokra
 
 „To nevím,“ přiznal nešťastně Kvido.
 
-  
+</section>
+
+<section>
 
 Jak se blížil temín, kdy bylo nutné odevzdat přihlášku ke studiu, snažil se Kvidův otec vystupňovat svůj výchovný vliv. Domníval se, že mu jeho nesporné a mnohými obdivované pracovní úspěchy, korunované nedávnou obchodní cestou do exotického Japonska, dávají všechny předpoklady pro použití metody _napodobovací_ – jenomže Kvido, v rámci své pubertální kritičnosti, odmítal uznat i tak zjevné a životem ověřené pravdy, jako že štěstí člověka je přímo úměrné délce jeho služebních cest, uvedené v kilometrech, takže musel, ač nerad, sáhnout občas i k nepopulární metodě _přinucovací._
 
@@ -681,7 +709,9 @@ Kvidův otec to však se synem myslel bezpochyby dobře, ba co víc, myslel to v
 
 „Bouřil se proti takové ignoranci ještě mnohokrát,“ vyprávěl Kvido. „Když neuspěl _na souši_, odletěl s námi v létě do Bulharska a hučel do mě ve _vzduchu_ v letadle i ve vodě v moři, jako by hledal ideální fyzikální podmínky, za nichž je přeci jen možné zkušenosti sdělovat,“ vyprávěl po letech Kvido.
 
-  
+</section>
+
+<section>
 
 Někdy v té době napsal Kvido svou první povídku. Nazval ji Samoobsluha Krutost.
 
@@ -708,3 +738,5 @@ Kvido zrudl a na tváři se mu objevil pokřivený úsměv.
 „Takhle si je vybíráte,“ řekl vzdorně.
 
 „Já ne!“ řekla Jaruška. „A nechci, abys o mně psal!“
+
+</section>
