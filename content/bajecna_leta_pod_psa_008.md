@@ -3,7 +3,9 @@ title: III
 contentType: prose
 ---
 
-1
+<section>
+
+## _1_
 
 Kvidova matka byla vždy přesvědčena, že Paco byl počat první červnovou sobotu roku devatenáct set sedmdesát, asi čtvrt hodiny před půlnocí. Tvrdí, že se tak stalo jen několik metrů od dohasínajícího táboráku ve vojenském spacím pytli, během Krylovy písně Salome, kterou své novopečené manželce (s níž se konečně z transformátoru přestěhoval na manželskou ubytovnu) nedaleko hrál a zpíval ing. Zvára. Tento předpoklad jí pak samozřejmě umožňoval zdánlivě racionálně vysvětlovat Pacovu pozdější trampskou vášeň. Kvidův otec ale od počátku označoval takové vývody za vulgární vlivologii a matčinu hypotézu s početím ostatně odmítal celou, argumentuje přitom poměrně dobrou znalostí jejích cyklů.
 
@@ -51,7 +53,9 @@ Primářka se k ní naklonila a prstem jí odhrnula vlasy z čela. Potom vzal
 
 „Mýlila se,“ řekl Kvido. „Dělala šatnářku v kině Jalta.“
 
-  
+</section>
+
+<section>
 
 „Dědečku!“ vykřikl Kvido.
 
@@ -105,11 +109,15 @@ Když Kvidova matka odmítla ke kávě cigaretu a sdělila mu konečně onu sla
 
 „Jestli mu vybíráte jméno podle snadnýho skloňování, mohl by se jmenovat třeba Filé,“ řekl Kvido. „To je úplně nesklonné.“
 
-  
+</section>
+
+<section>
 
 „Jak vidíte, pane redaktore,“ řekl Kvido, „byl jsem v gramatice dost napřed.“
 
-  
+</section>
+
+<section>
 
 „Další dítě?“ řekl nesouhlasně dědeček Josef. „Teď?“
 
@@ -143,11 +151,15 @@ Kvidův otec se snažil: Doplnil žádost o byt potvrzením o manželčině gr
 
 Během jedné takové chvíle si začal Kvido představovat jakousi neznámou, exotickou krajinu. Uprostřed ní stál sice samozřejmě Pražský hrad a Staré Město, ale pak už se – kaskádou bílých útesů – začala celá krajina postupně svažovat k moři. Písek na tamějších plážích byl horký a stříbrozlatý. Ve stínu nedalekých palem seděla učitelka Hájková, dědeček Jiří, Pavel Kohout a paní Bažantová z kostymérny. Četli si divadelní hry a smáli se a popíjeli přitom kokosové mléko přímo z ořechů. V povětří létaly blankytně modré andulky a usedaly Kvidovi a Jarušce Mackové na opálená ramena, ale místo pařátů měly na nohách malinké sametové přísavky, takže to Kvida ani Jarušku vůbec neškrábalo. Sbírali společně mušle a koupali se, a když byli unavení, lehli si na slunci na veliké kožešiny z bobrů a norků; kdykoli Kvido chtěl, Jaruška mu ukázala pohlaví. – Vidina oné krajiny ho zaujala natolik, že si ji často přivolával a rozvíjel ji i ve dnech následujících. Bál se ale, zda si všechny ty báječné věci, které si v krajině utvořil, bude pamatovat. Jednou navečer se proto rozhodl, že podobu své krajiny zachytí navždy: Přinesl si do postele blok a pero a všechno to, co stále ještě velmi ostře viděl, kdykoli jen malinko přivřel oči, pečlivě zapsal.
 
-  
+</section>
+
+<section>
 
 „Dneska by to pochopitelně vyjít nemohlo,“ řekl redaktorovi sarkasticky Kvido. „Ani bez Kohouta. Je v tom surrealismus a dětská pornografie a ta skupina pod palmama je úplně vyvázaná ze struktury třídních vztahů.“
 
-  
+</section>
+
+<section>
 
 „To dítě sní o teple!“ řekla Kvidova matka svému muži, když si synovo dílko potajmu přečetla. „Dělej něco!“
 
@@ -205,7 +217,9 @@ Kvidova matka se krátce zasmála. Znovu si lehla a mlčky pozorovala popraskan
 
 „A ty s tím vůbec nic neuděláš! Jak si tě potom mám vůbec vážit?“
 
-  
+</section>
+
+<section>
 
 „Přečtu vám,“ řekl redaktorovi Kvido, „co říká profesor Michail Bědný: ‚Dívka, která se vdává, by měla mít na paměti, že nejkratší cesta k vdovství a sirobě jejích dětí vede přes neustálé naléhání na manžela: Jsi muž, musíš. Já jsem slabá žena, nemusím. Psychologové vědí, že právě tyto slabé ženy jsou zpravidla nejnáročnější.‘ Co tomu říkáte?“
 
@@ -257,7 +271,9 @@ Kvidova matka přinesla ze skříně svou koženou kabelu a začala připravova
 
 „To je pěkný příměr,“ řekla Kvidova matka a zaklapla tašku.
 
-  
+</section>
+
+<section>
 
 Nemocniční pavilóny, v nichž Kvido a jeho matka leželi, dělil od sebe přibližně třicetimetrový pruh zasněženého parčíku. Jejich pokoje byly shodou okolností prakticky přímo proti sobě, jen v různých poschodích (Kvidův ve třetím a matčin v prvním), ale jediná skupinka jehličnanů, která v parčíku rostla, jim bohužel bránila, aby na sebe viděli. Jedna z hodnějších sester se jim tedy alespoň každý den postarala o výměnu korespondence, ale když chtěl Kvido matku později také spatřit, musel jít k oknu sousedního pokoje.
 
@@ -422,7 +438,9 @@ _Uvnitř pokoje se ozve salva smíchu._
 
 _Opona._
 
-  
+</section>
+
+<section>
 
 „Pojď dál, soudruhu,“ přivítal Šperk Kvidova otce onoho památného odpoledne ve své pracovně. „Vítám tě v Sázavě!“
 
@@ -537,3 +555,5 @@ Teprve nyní mu Šperkova zpráva začínala docházet. Cítil obrovskou radost 
 „Vlčáci?“ zděsil se Kvidův otec. „Ještě to tak! Žena by umřela strachy. Zrovna s vlčákem zažila před lety dost ošklivou příhodu. Kdepak ona a pes!“
 
 „Jakej pes?“ řekl Šperk s úsměvem. „Říkám ti přece, že je to štěně!“
+
+</section>

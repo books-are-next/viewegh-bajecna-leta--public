@@ -3,7 +3,9 @@ title: XVI
 contentType: prose
 ---
 
-1
+<section>
+
+## _1_
 
 Hypotéza Kvidovy matky, že příchod malého dítěte do rodiny bude mít zásadní vliv na průběh otcovy neurózy, se bohužel nepotvrdila. Vyrobil Aničce sice několik dalších dřevěných zvířátek, miniaturních kočárků a nejrůznějších více či méně pohyblivých panenek a každý den si s ní hrával, ale na jeho nemoci se tím nic podstatného nezměnilo.
 
@@ -65,7 +67,9 @@ Ostatní – s výjimkou Aničky, která vrhala na babičku Líbu vyčítavé p
 
 „Prosím tě,“ dodala.
 
-  
+</section>
+
+<section>
 
 Kvido si vzal matčinu prosbu k srdci a všechna ta úsporná, válečná jídla, která tradičně předcházela také tomuto babiččině zájezdu, snědl už bez poznámek. Vypadalo to, že babičce v duchu odpustil, neboť si od ní o „Benátkách severu“ nechal občas i vyprávět, vzbuzuje při tom dokonce dojem snad sice trochu melancholického, ale přece jen celkem soustředěného posluchače.
 
@@ -73,7 +77,9 @@ Jindy si s Pacem pomáhali humorem, s nímž – zdálo se – bylo možno doj
 
 „Vůbec bych se nedivil,“ tvrdil jednou Pacovi nad nastavovanou kaší, „kdyby tomu zamilovanému mladíčkovi, který se bude s babičkou muchlat někde na Něvském prospektu, přišili pohlavní zneužití.“
 
-  
+</section>
+
+<section>
 
 Navzdory těmto ztřeštěným představám přišla později z Leningradu pohlednice překvapivě _prozaického_ obsahu.
 
@@ -108,3 +114,5 @@ Kvido s námahou polkl.
 Pacova brada se zachvěla.
 
 „Měla vás strašně ráda,“ řekla Zita velice, velice vážně.
+
+</section>

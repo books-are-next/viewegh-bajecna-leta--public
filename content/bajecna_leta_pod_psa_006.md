@@ -3,18 +3,24 @@ title: I
 contentType: prose
 ---
 
-1
+<section>
+
+## _1_
 
 Kvido se měl podle Zitiných předpokladů narodit v prvním srpnovém týdnu roku devatenáct set šedesát dva v porodnici v Podolí.
 
 Jeho matka měla v té době za sebou dvanáct divadelních sezón, avšak velkou většinu svých převážně dětských rolí v Jiráskových, Tylových, Kohoutových a Makarenkových hrách považovala za mírně kompromitující hříchy mládí. Studovala ostatně čtvrtý ročník práv a svou účast v komparsu Divadla čsl. armády na Vinohradech brala už jen jako nezávaznou hru (což jí ovšem na druhé straně nebránilo, aby víceméně náhodnou okolnost, že termín porodu spadá do divadelních prázdnin, neprezentovala před úspěšnějšími kolegyněmi coby věc naprosto samozřejmé profesionální kázně). Jakkoli to zní paradoxně, pod slupkou ochotnického zanícení byla Kvidova matka – někdejší hvězda školních představení – ve skutečnosti velmi stydlivá a kromě Zity ji také nesměl nikdo jiný prohlédnout. Paní Zita, primářka podolské porodnice a dlouholetá přítelkyně babičky Líby, která znala Kvidovu matku od dětství, se trpělivě snažila jejímu rozmaru vyhovět a přislíbila jí, že přeorganizuje služby lékařů tak, aby v onen kritický den neasistoval na sále ani jeden muž.
 
-  
+</section>
+
+<section>
 
 _„U Zity v Podolí  
 žádný porod nebolí,“_
 
-  
+</section>
+
+<section>
 
 veršovala u oběda babička Líba, a dokonce i otec Kvidova otce, dědeček Josef, ač apriorně skeptický vůči všemu komunistickému, zdravotnictví přirozeně nevyjímaje, byl ochoten připustit, že pravděpodobnost rozdrcení Kvidovy hlavičky porodnickými kleštěmi je tentokrát přece jen o něco nižší než jindy.
 
@@ -72,7 +78,9 @@ Za pár minut zavřískalo sálem novorozeně mužského pohlaví.
 
 „Právě,“ řekl Kvido. „Co s tím…“
 
-  
+</section>
+
+<section>
 
 Kvidův otec se narodil s vysokou inteligencí do nízkých poměrů. Dvacet jedna let, každý den na ně narážel: na věčně rozestlané peřiny, na pach plynu a ohřívaných jídel, na prázdné láhve a na rozházený ptačí zob. Přímo pod okny jejich jednopokojového přízemního bytu v Sezimově ulici každý večer zvraceli opilci, vycházející ze sousední restaurace U Bansethů. Na špinavé omítce byla mnohokrát rozmazaná krev nuselských cikánů. Dědeček odjížděl brzy ráno nebo brzy po obědě havířským autobusem na Kladno; když byl doma, kouřil a nervózně přecházel po místnosti, rozšlapávaje přitom ptačí zob.
 
@@ -146,7 +154,9 @@ Co však Kvido naopak nesnášel, byl dědečkův zlozvyk dělit se s andulkami
 
 „Nikdy v životě, ani v žádném pornofilmu, který jsem kdy zhlédl,“ vyprávěl Kvido, „jsem už neviděl nic odpornějšího, než ty tři oslintané opeřené hlavičky, střídavě se zasouvající do dědečkových úst plných svíčkové omáčky.“
 
-  
+</section>
+
+<section>
 
 Jestliže dědeček Jiří přijal vnuka maličko zdrženlivě, nebylo to rozhodně z nedostatku lásky: Jednak ho jeho práce v prezidentské kanceláři zaměstnávala mnohem více, než byl zaměstnán kterýkoli jiný Kvidův příbuzný – a za druhé odmítal, jak se vyjádřil, o přízeň dítěte _soutěžit_. Raději trpělivě počkal, až na něj přijde řada, nevnucoval se, natož aby Kvida – jak si to s oblibou vzájemně dělávaly obě babičky – víceméně tajně unášel. Kdykoli mu byl však hoch konečně svěřen, připravil pro něj do nejmenších detailů promyšlený program, takže se Kvido skutečně ani minutu nenudil: letěli do Karlových Varů, jezdili parníkem na Slapy, vylezli na desítky pražských věží, navštívili postupně všechna muzea, Petřín, Vyšehrad, planetárium a samozřejmě Pražský hrad. Dědeček vlastnil průkazku, která mu otvírala i zavřené dveře, takže kupříkladu korunovační klenoty uviděl Kvido o několik let dříve, než je uviděli ostatní smrtelníci. Mimo to měl dědeček i vzácnou schopnost vycítit onen okamžik, kdy pozornost toho jinak velmi vnímavého chlapce začíná ochabovat: Tehdy prohlídku rychle ukončil, prošli jakýmsi průchodem nebo proběhli jakousi Kvidovi neznámou uličkou – a rázem se ocitli přímo u stanice tramvaje, která je odvezla někam, kde si dali limonádu a velký kus masa s malou přílohou.
 
@@ -160,7 +170,9 @@ Dědeček toho během vycházek moc nenamluvil, ale stávalo se nejednou, že to
 
 Povzbuzována podobnými důkazy, domnívala se Kvidova matka – tak jako pochopitelně většina matek – že pod tukovými polštářky jejího syna se ukrývá výjimečný talent, který se dříve nebo později projeví. Už dvouletému Kvidovi proto hlasitě deklamovala své nejlepší divadelní role, a to nejen ty dětské, a také zdaleka nejen ty, v nichž skutečně hrála:
 
-  
+</section>
+
+<section>
 
 _„Můj otec dokonal, sklán právě první zbraní,  
 kterou don Rodrigo dnes sevřel ve své dlani.  
@@ -169,7 +181,9 @@ Půl mého života mi sklála druhou půl
 a nutí mě se mstít, po oné kruté ráně,  
 za tu, co nemám už, na té, co zůstává mně,“_
 
-  
+</section>
+
+<section>
 
 recitovala například Kvidovi často. Nemyslela si přirozeně, že by Corneillovým veršům nějak příliš rozuměl, ale doufala, že se jejich prostřednictvím stane Kvido někým alespoň trochu jiným než všechny ty děti odkojené Ferdou Mravencem a Špalíčkem českých pohádek.
 
@@ -179,7 +193,9 @@ První výsledky matčiny výchovy uměním byly ale natolik neprůkazné, že m
 
 „Podívejte se, jaké namaloval hříbky v jehličí!“ volala nadšeně Kvidova matka, předjímajíc tak bezděky obraz mnoha jeho pozdějších jednání s nakladatelskými redaktory.
 
-  
+</section>
+
+<section>
 
 Jedno nadání ale malý Kvido nesporně měl – a sice čtenářské. Aniž se mu předtím v tomto směru kdokoli sebeméně věnoval (neboť každý to považoval za předčasné), zvládl ve svých čtyřech letech celou abecedu. Definitivně to vyšlo najevo počátkem září roku devatenáct set šedesát šest, v průběhu jedné z prvních zkoušek připravované Kohoutovy hry August, August, August. Už předtím se Kvido doma sice dvakrát blýskl, když přečetl několik krátkých titulků z Plamene a Literárních novin, ale oba jeho výkony shodou okolností zapadly ve zmatcích kolem matčiny rigorózní zkoušky. Také onoho památného dopoledne se Kvidova matka spíše než několika holým větám své role věnovala v zákulisí tlustým skriptům hospodářského práva. Její syn zatím lezl po rudých plyšových sedadlech v setmělém hledišti, osahával zlacené zdobení lóží, a jelikož se stále zastavovaný děj inscenace vlekl už dobré dvě hodiny, upřímně se nudil. Posléze se nad ním ustrnula paní Bažantová, garderobiérka, a přinesla mu odkudsi z kanceláří vysoký štos starších divadelních programů. Kvido zdvořile šeptem poděkoval a přesunul se blíže k jevišti, aby na písmena lépe viděl. Právě když se usazoval, klín plný barevných programů, režisér Dudek se ohlédl a krátce se na něj usmál. Kvido si jeho úsměv vyložil jako pobídku.
 
@@ -191,12 +207,16 @@ Pavel Kohout, který sledoval zkoušku po Kvidově levici, na chlapce podezírav
 
 „Poslouchej, Pavle,“ zašeptal Kvido a zkušeně si olízl ukazováček, aby mohl snáze listovat stránkami:
 
-  
+</section>
+
+<section>
 
 _„Ó matko molů, matko lidí, matko všeho,  
 dej molům sílu k návratu do světa přetěžkého,“_
 
-  
+</section>
+
+<section>
 
 přečetl plynně.
 
@@ -210,12 +230,16 @@ Zkouška musela být na okamžik přerušena. Vlastimil Brodský i Vladimír Š
 
 Prstem ukázal na příslušný řádek v textu.
 
-  
+</section>
+
+<section>
 
 _„…že jsou tak útlí a že tolik je jich zapotřebí  
 ve světě, kde stvůry mamutí se šklebí,“_
 
-  
+</section>
+
+<section>
 
 dočetl Kvido.
 
@@ -255,7 +279,9 @@ _Pokoj Kvidových rodičů. Večer. Kvido spí._
 
 > ****OTEC**: Protože jsi to chtěla.**
 
-  
+</section>
+
+<section>
 
 „Moderní člověk,“ řekl redaktorovi Kvido, „se neobejde bez auta. To maso mi mimochodem něco připomíná.“
 
@@ -277,20 +303,26 @@ Všichni členové rodiny ovšem již dávno věděli, že babička s penězi n
 
 Ještě o mnoho let později, když po tříhodinové manželské hádce sprchoval ledovou vodou oblečenou Jarušku, vzpomněl si Kvido v náhlém záblesku paměti na onen výraz nedostižné chápavosti, který se tenkrát zračil v dědečkově obličeji.
 
-  
+</section>
+
+<section>
 
 „Babička Líba byla ortodoxní turistka,“ vyprávěl Kvido. „Od útlého dětství jezdila každé prázdniny do nejlepších francouzských a anglických rodin. Silvestra později trávívala ve švýcarských Alpách. Nynější život ji nemohl uspokojit: byl to jen jakýsi neúměrně dlouhý pobytový zájezd, zatímco ona milovala – jak se mnohokrát vyjádřila – spíše poznávací tematické okruhy. Dědeček byl sice pozorný, ale někdy přece jen trochu obtížný průvodce.“
 
 Z Jalty – tak jako ostatně ze všech zájezdů – poslala babička černobílou pohlednici s vlastními verši:
 
-  
+</section>
+
+<section>
 
 _Na krásné pláži poblíž Jalty  
 pořádáme malou party:  
 Koupeme se, povídáme,  
 háčkujeme, vzpomínáme!_
 
-  
+</section>
+
+<section>
 
 stálo na lístku a následovalo obvyklé Všechny líbá vaše Líba!
 
@@ -476,7 +508,9 @@ Dědeček odtrhl cigaretu od úst: „Jaký zas oznámení?!“
 
 „Já bych lepil,“ řekl Kvido. „Jestli můžu…“
 
-  
+</section>
+
+<section>
 
 „Drž, dostaneš kůži!“ křičel dědeček Josef pokaždé, když se některý z nastříhaných papírků s oznámením o ztrátě tří andulek ze Sezimovy ulice č. 2 vzpouzel přilepení. Oči mu plály a stříbrný pruh vlasů mu ustavičně padal přes zpocené čelo.
 
@@ -514,7 +548,9 @@ Dědeček Kvida odvlekl stranou, a aniž to nějak blíže vysvětlil, zakázal
 
 „Moje řeč,“ řekla paní.
 
-  
+</section>
+
+<section>
 
 Jakmile zhruba po půldruhé hodině vyšli znovu na ulici, zpozoroval Kvido, že dědečkova chůze je podivně nejistá. Věděl už, co to znamená, ale snažil se zdvořile předstírat, že si ničeho nevšiml, a začal mu vyprávět o komických obtížích s přejmenováním TJ Dynama Praha na dnešní Slavii, jak o tom kdysi slyšel vyprávět Pavla Kohouta v divadelním klubu.
 
@@ -583,3 +619,5 @@ Odkudsi ze středu města se krátce ozvala střelba.
 „Panenko skákavá,“ řekl dědeček Jiří, „půjdete, nebo ne?“
 
 „Půjdeme,“ řekla Kvidova matka už tiše. „Ale kam?“
+
+</section>

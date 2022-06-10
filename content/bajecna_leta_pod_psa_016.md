@@ -3,7 +3,9 @@ title: XI
 contentType: prose
 ---
 
-1
+<section>
+
+## _1_
 
 „Proč proboha vrátnej?!“ křičela na Kvida matka, když jí v pátek po příjezdu do Sázavy oznámil, že zanechal studia a že bude pracovat ve sklárnách jako noční vrátný. „Copak jste se všichni zbláznili?!“
 
@@ -17,7 +19,9 @@ Ten báječný osvobodivý pocit minulých dní byl ten tam; nyní už se cítil
 
 „Každý začátek je těžký,“ filozofoval později Kvido, „ale některý začátky jsou příšernej průser.“
 
-  
+</section>
+
+<section>
 
 Jestliže pro Kvidovu matku bylo synovo nečekané životní rozhodnutí malým šokem, pro jeho otce to byla doslova osudová rána: Kvido byl poslední člověk na světě, v něhož doufal; od Paca si zatím příliš slibovat nemohl, neboť se nezdálo, že by rozuměl ještě něčemu jinému než folkovým písním a spaní pod širým nebem. Jeho jediný sen se náhle zhroutil.
 
@@ -57,7 +61,9 @@ Ze sklepa táhl jen chlad a ticho.
 
 Kvido pokrčil rameny a odešel. Kvidova matka se postavila ke kuchyňskému oknu, poodhrnula záclonu a sledovala svého syna dlouhým pohledem.
 
-  
+</section>
+
+<section>
 
 Před vrátnicí skláren na Kvida čekala Jaruška. Na sobě měla vlastnoručně pletené bílé tílko a v ruce držela dvě letní jablka a čokoládu. Teprve po letech docenil Kvido onu její iracionální odvahu či snad víru, s níž tehdy stále setrvávala po jeho boku, ačkoli věděla, že jí v dohledné době nemůže poskytnout nic z toho, čemu říkáme perspektiva: Neměl ani vzdělání, ani byt, neměl peníze a hrozila mu vojna.
 
@@ -143,7 +149,9 @@ Kvidova matka je s odhodlaným soustředěním začala skládat k sobě. Kvido
 
 „Váš otec,“ řekla matka a hlas se jí zlomil, „si dělá rakev.“
 
-  
+</section>
+
+<section>
 
 Kvidova matka se rozhodla, že ještě týž den zavolá z práce doktoru Liehrovi.
 
@@ -213,11 +221,15 @@ Tento rituál se časem natolik vžil, že jej Kvidova matka (a později i Jar
 
 Jednoho dne objevil Kvido v koutě střechy starou roli černé asfaltové lepenky – a dostal nápad, jehož realizace ho stála asi dvacet minut času a téměř neodstranitelně špinavé nehty: Zakryl lepenkou posledních pět písmen, takže s úderem desáté hodiny spatřila jeho matka na nočním nebi tuto odvážnou otázku bez otazníku:
 
-  
+</section>
+
+<section>
 
 SLÁVA KOMU
 
-  
+</section>
+
+<section>
 
 „Zbláznil se?“ vyjekla Kvidova matka zděšeně a okamžitě se ohlédla, zda v kuchyni není přítomen Kvidův otec, pro něhož by taková podívaná znamenala bezpochyby okamžitou smrt. Když se její pohled znovu vrátil k obloze, po otázce už nebylo ani vidu.
 
@@ -258,3 +270,5 @@ Připadal si neodpustitelně nezkušený.
 „Žádného ale neznám,“ namítal Kvido.
 
 „Tak se seznamte!“ poručil mu redaktor.
+
+</section>

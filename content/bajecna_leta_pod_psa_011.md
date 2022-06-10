@@ -3,7 +3,9 @@ title: VI
 contentType: prose
 ---
 
-1
+<section>
+
+## _1_
 
 Kariéra Kvidova otce skončila na sklonku léta roku devatenáct set sedmdesát sedm, a to tak rychle, jak náhle začala.
 
@@ -69,7 +71,9 @@ Stalo se tak jednoho sobotního dopoledne během jejich nákupu v místním obc
 
 „V jistém smyslu se nemýlil,“ vyprávěl později Kvido.
 
-  
+</section>
+
+<section>
 
 „Nazdar, Pavle,“ řekla tehdy Kvidova matka se zářivým úsměvem Pavlu Kohoutovi, dávajíc tak prodavačům, nakupujícím lidem a v neposlední řadě i sama sobě najevo, že se nebojí letos tolik diskutovaného disidenta oslovit na tak frekventovaném místě.
 
@@ -85,11 +89,15 @@ Takřka vzápětí se však jakoby zarazil a vrátil se k onomu zdrženlivě v
 
 Nechtěl být nezdvořilý a nepozvat své přátele vůbec – ale zároveň se jim, jak vidno, snažil ponechat dostatek prostoru pro úhybný manévr (který by byl pochopil).
 
-  
+</section>
+
+<section>
 
 „A bylo to tu. Osudová chvíle,“ řekl redaktorovi Kvido.
 
-  
+</section>
+
+<section>
 
 Nikdo o ní ovšem neměl tušení. Ani Kvidův otec, ani Kvidova matka, ani spoluobčané, proudící kolem nich, a dokonce ani mouchy, poletující nad páchnoucími sýry. Kvidovi rodiče – tak jako většina manželských párů, které se často pohybují ve společnosti – si léty bezděky vypracovali celý systém mimořečové komunikace, od známých náhodných gest, pohledů či pohybů hlavou, až po tak jemné výrazové znaky, jako je rychlost nadechnutí, sotva slyšitelné mlasknutí nebo prakticky nepostřehnutelné přešlápnutí na místě – ale i tento vždy tak dobře fungující systém je nyní zradil, a to zcela nečekaně, neboť v minulosti úspěšně čelili (dokonce s jistou elegancí) i pozváním doslova agresívním.
 
@@ -114,7 +122,9 @@ aby se život rozletěl jak pták,
 aby se láska stala dobrou písní,  
 se kterou dá se letět do oblak!“_
 
-  
+</section>
+
+<section>
 
 recitovala Kvidova matka se směsicí ironie a sentimentu, když se onoho odpoledne oblékala k domluvenému táboráku.
 
@@ -138,7 +148,9 @@ V jejím návrhu se – jak Kvidův otec správně postřehl – mísila zdrav�
 
 „No proč ne?“ řekl Kvidův otec.
 
-  
+</section>
+
+<section>
 
 Teprve poté, co Pavel Kohout a jeho žena Jelena zasvětili své hosty do posledního vnitropolitického dění a mimo jiné je seznámili se skutečností, že jsou velmi často sledováni Státní bezpečností, uvědomil si Kvidův otec, do jak vážné hry se – byť jako divák – dostal. Aby nějak zaměstnal své ruce, ujal se otáčení rožně, ale nadšené gurmánství, které přitom předstíral, nedokázalo jeho nervozitu beze zbytku zakrýt. Jeho mlaskavé výroky o zlatavě křupavé kůžičce nikoho neošálily tím spíše, že se stále díval na hodinky a k obloze, jako by se už nemohl dočkat příchodu tmy, a že jediný kousek kuřecích prsíček, který si v křiklavém rozporu se svými řečmi vzal, o chvíli později s trochu nepřesvědčivým vysvětlením zvrátil do živého plotu.
 
@@ -195,3 +207,5 @@ Kvidův otec nedokázal odpovědět.
 Kvidova matka uchopila své syny za ruce.
 
 „No běžte,“ řekl Šperk. „Běžte, běžte.“
+
+</section>

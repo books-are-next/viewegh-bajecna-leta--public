@@ -3,7 +3,9 @@ title: VII
 contentType: prose
 ---
 
-1
+<section>
+
+## _1_
 
 Většinou, když Kvido přemítal, co jeho otce mohlo tak zlomit, že si při svém přeřazování na jinou práci vybral z pěti nabízených míst, kde byla i tři místa úřednická, právě místo člena závodní stráže, nemyslíval ani tak na onen trochu záhadný výslech na Státní bezpečnosti, o němž mu otec odmítal říct cokoli bližšího, ani na onen rozhlasový pořad s názvem Případ Kohout, kde o organizovaném seskupování nepřátel socialistického zřízení v místě dramatikova stávajícího pobytu hovořil mezi jinými i soudruh Šperk; myslíval na inženýra Zváru.
 
@@ -23,7 +25,9 @@ A neokřikl ho ani tehdy, když Kvidův otec jednoho dne přišel do kancelář
 
 „A to rozhodlo,“ tvrdil Kvido.
 
-  
+</section>
+
+<section>
 
 Doktor Liehr Kvidovu hypotézu později neodmítal, ale zároveň byl přesvědčen, že jeho otec dobrovolnou volbou _nejspodnějšího_ místa v hierarchii oněch pěti se snažil – ať už vědomě či ne – zavděčit trestající moci, respektive se tuto moc bál podráždit tím, že by spadl řekněme jen o dvě příčky níže, třeba na místo cenového referenta; poukazoval v této souvislosti na výraznou vertikální symboliku celé věci: Vzhledem k tomu, že Kvidův otec sídlil dříve v kanceláři v _devátém patře_ a vrátnice byla přirozeně v přízemí, šlo tu o _společenský pád_ jaksi se vším všudy, což prý vyhovovalo jeho sklonům k mučednictví.
 
@@ -49,7 +53,9 @@ Rozčilení Kvidovy matky stoupalo s tím, jak si začínala uvědomovat nejrů
 
 „Ježíšikriste,“ hlesla Kvidova matka. „Ty jsi snad vážně zešílel.“
 
-  
+</section>
+
+<section>
 
 A tak se stal Kvidův otec vrátným. V jeho kožené aktovce, ještě před pár dny nabité hustě popsanými diáři, zápisy z porad, nejrůznějšími zprávami, výsledky expertíz, zahraničními odbornými časopisy, adresáři a desítkami vizitek, byla nyní jen dózička s kávou, kousek buchty, pero a dvě tři vystřižené křížovky.
 
@@ -77,7 +83,9 @@ Zavrtěla s bezmocným úsměvem hlavou. I v slabém přísvitu obrazovky byl
 
 „Otec matku – podobně jako dřevo – _mořil_, čímž zvýrazňoval kresbu její letitosti,“ vyprávěl Kvido.
 
-  
+</section>
+
+<section>
 
 Nebylo divu: Byl buďto na vrátnici, anebo ve sklepě, odkud vylézal, jen když šel spát nebo něco málo sníst, popřípadě když chtěl někdy zhlédnout televizní noviny, které ho čím dál více rozrušovaly, takže nejednou odcházel ještě před jejich koncem, aby se prostřednictvím několika precizních vrubořezů do ořechu alespoň částečně uklidnil.
 
@@ -228,3 +236,5 @@ _Kratší pauza._
 > ****OTEC** (_křičí_): Vezmi mu to – nebo to vyrvu ze zdi!!**
 
 > ****KVIDO**: …Ne, to byl otec… Musím ti dát mámu… Tak v neděli ahoj. Ahoj!**
+
+</section>

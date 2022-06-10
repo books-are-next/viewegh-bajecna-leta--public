@@ -3,7 +3,9 @@ title: X
 contentType: prose
 ---
 
-1
+<section>
+
+## _1_
 
 Jednoho teplého prázdninového večera, kdy se ohyb řeky třpytil odrazem bledého měsíčního svitu, poprosil Kvido Jarušku, zda by mu neukázala pohlaví. Jaruška se ale zdráhala: Zavrtěla hlavou, dívala se upřeně do tmavé mokré trávy, a kdykoli chtěl Kvido promluvit, přikryla mu ústa svou rozpálenou dlaní.
 
@@ -113,7 +115,9 @@ Byl osvobozen. Vášnivě Jarušku políbil. Náhle pocítil prudkou touhu.
 
 Kvido to dokázal.
 
-  
+</section>
+
+<section>
 
 Probudil se ráno před sedmou. Jaruška ještě spala. Spoza rolety se do pokoje dralo měkké žluté slunce. Tiše se oblékl, načmáral Jarušce vzkaz a vykradl se z bytu na ulici. Tramvaje radostně vyzváněly. V parčíku na náměstí kvetl záhon macešek. Z lékárny vyšla těhotná Cikánka. Před prodejnou domácích potřeb skládali z avie smaltované zelené vany. Holubi vzlétli ze střechy mléčných lahůdek. Kvido procházel kolem obchodů a prohlížel si obrazy, kávovary, obleky, vepřové maso, prstýnky a zahradní lehátka. Život je nádherný, říkal si. Koupil šest rohlíků, máslo, šunku, vejce, pomeranče, pěnu do koupele, prezervativy a Mladý svět. Když jím roztržitě zalistoval, objevil na poslední straně tučně vysázené svoje jméno; pod ním byla otištěna jeho povídka Pouť.
 
@@ -124,3 +128,5 @@ Probudil se ráno před sedmou. Jaruška ještě spala. Spoza rolety se do pokoj
 Několik chodců se ohlédlo.
 
 „A jak řekl, tak udělal,“ vyprávěl Kvido.
+
+</section>
